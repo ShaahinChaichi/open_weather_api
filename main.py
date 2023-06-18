@@ -1,21 +1,26 @@
 import requests
-from data import write_to_file
 
-# https://one-api.ir/weather/?token={token}&action=current&city={city}
+API_KEY = "c4bd24d75f7f431ca448b03ab4755bbc"
 
-URL = "https://one-api.ir/weather/"
+# https://newsapi.org/v2/everything?q=tesla&from=2023-05-18&sortBy=publishedAt&apiKey=c4bd24d75f7f431ca448b03ab4755bbc
+# ?q=tesla&from=2023-05-18&sortBy=publishedAt&apiKey=
+
+
+URL = "https://newsapi.org/v2/everything"
 
 parameters = {
 
-    "token": "343451:648e0cc239601",
-    "action": "hourly",
-    "city": "تهران",
+    "apikey": API_KEY,
+    "sortBy": "publishedAt",
+    "from": "2023-05-18",
+    "q": "tesla"
 }
 
 response = requests.get(URL, params=parameters)
-datax = response.json()
+data = response.json()
+articles = data["articles"]
 
-day_list = datax['result']['list']
-
-print(day_list["weather"])
-  
+index = 1
+for article in articles:
+    print(f'{index}: {article["title"]}')
+    index += 1

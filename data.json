@@ -1,3463 +1,1306 @@
 {
-  "status": 200,
-  "result": {
-    "list": [
-      {
-        "dt": 1687111200,
-        "main": {
-          "temp": 31.61,
-          "feels_like": 29.48,
-          "temp_min": 31.61,
-          "temp_max": 32.49,
-          "pressure": 1008,
-          "sea_level": 1008,
-          "grnd_level": 879,
-          "humidity": 8,
-          "temp_kf": -0.88
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.32,
-          "deg": 336,
-          "gust": 6.65
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-18 18:00:00"
-      },
-      {
-        "dt": 1687114800,
-        "main": {
-          "temp": 31.67,
-          "feels_like": 29.51,
-          "temp_min": 31.67,
-          "temp_max": 31.89,
-          "pressure": 1007,
-          "sea_level": 1007,
-          "grnd_level": 879,
-          "humidity": 9,
-          "temp_kf": -0.22
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.09,
-          "deg": 346,
-          "gust": 5.44
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-18 19:00:00"
-      },
-      {
-        "dt": 1687118400,
-        "main": {
-          "temp": 31.47,
-          "feels_like": 29.34,
-          "temp_min": 31.26,
-          "temp_max": 31.47,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 879,
-          "humidity": 9,
-          "temp_kf": 0.21
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.84,
-          "deg": 322,
-          "gust": 4.33
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-18 20:00:00"
-      },
-      {
-        "dt": 1687122000,
-        "main": {
-          "temp": 30.94,
-          "feels_like": 28.9,
-          "temp_min": 30.49,
-          "temp_max": 30.94,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 879,
-          "humidity": 10,
-          "temp_kf": 0.45
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.66,
-          "deg": 323,
-          "gust": 5.44
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-18 21:00:00"
-      },
-      {
-        "dt": 1687125600,
-        "main": {
-          "temp": 30.23,
-          "feels_like": 28.31,
-          "temp_min": 29.88,
-          "temp_max": 30.23,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 879,
-          "humidity": 12,
-          "temp_kf": 0.35
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.32,
-          "deg": 326,
-          "gust": 5.13
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-18 22:00:00"
-      },
-      {
-        "dt": 1687129200,
-        "main": {
-          "temp": 29.46,
-          "feels_like": 27.71,
-          "temp_min": 29.46,
-          "temp_max": 29.46,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 13,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.21,
-          "deg": 326,
-          "gust": 4.95
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-18 23:00:00"
-      },
-      {
-        "dt": 1687132800,
-        "main": {
-          "temp": 29.02,
-          "feels_like": 27.38,
-          "temp_min": 29.02,
-          "temp_max": 29.02,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 13,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.34,
-          "deg": 322,
-          "gust": 4.99
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 00:00:00"
-      },
-      {
-        "dt": 1687136400,
-        "main": {
-          "temp": 28.58,
-          "feels_like": 27.05,
-          "temp_min": 28.58,
-          "temp_max": 28.58,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.4,
-          "deg": 320,
-          "gust": 4.85
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 01:00:00"
-      },
-      {
-        "dt": 1687140000,
-        "main": {
-          "temp": 28.42,
-          "feels_like": 26.94,
-          "temp_min": 28.42,
-          "temp_max": 28.42,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.09,
-          "deg": 321,
-          "gust": 4.41
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 02:00:00"
-      },
-      {
-        "dt": 1687143600,
-        "main": {
-          "temp": 29.25,
-          "feels_like": 27.55,
-          "temp_min": 29.25,
-          "temp_max": 29.25,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 880,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.05,
-          "deg": 311,
-          "gust": 3.68
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 03:00:00"
-      },
-      {
-        "dt": 1687147200,
-        "main": {
-          "temp": 30.15,
-          "feels_like": 28.25,
-          "temp_min": 30.15,
-          "temp_max": 30.15,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 880,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.1,
-          "deg": 296,
-          "gust": 3.86
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 04:00:00"
-      },
-      {
-        "dt": 1687150800,
-        "main": {
-          "temp": 31.26,
-          "feels_like": 29.15,
-          "temp_min": 31.26,
-          "temp_max": 31.26,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 11,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.19,
-          "deg": 283,
-          "gust": 3.96
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 05:00:00"
-      },
-      {
-        "dt": 1687154400,
-        "main": {
-          "temp": 32.51,
-          "feels_like": 30.2,
-          "temp_min": 32.51,
-          "temp_max": 32.51,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 9,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.18,
-          "deg": 270,
-          "gust": 4.85
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 06:00:00"
-      },
-      {
-        "dt": 1687158000,
-        "main": {
-          "temp": 33.65,
-          "feels_like": 31.18,
-          "temp_min": 33.65,
-          "temp_max": 33.65,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 7,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.52,
-          "deg": 258,
-          "gust": 5.68
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 07:00:00"
-      },
-      {
-        "dt": 1687161600,
-        "main": {
-          "temp": 34.52,
-          "feels_like": 31.91,
-          "temp_min": 34.52,
-          "temp_max": 34.52,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.01,
-          "deg": 255,
-          "gust": 5.84
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 08:00:00"
-      },
-      {
-        "dt": 1687165200,
-        "main": {
-          "temp": 35.12,
-          "feels_like": 32.42,
-          "temp_min": 35.12,
-          "temp_max": 35.12,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.7,
-          "deg": 252,
-          "gust": 5.95
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 09:00:00"
-      },
-      {
-        "dt": 1687168800,
-        "main": {
-          "temp": 35.56,
-          "feels_like": 32.77,
-          "temp_min": 35.56,
-          "temp_max": 35.56,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 5.42,
-          "deg": 253,
-          "gust": 6.21
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 10:00:00"
-      },
-      {
-        "dt": 1687172400,
-        "main": {
-          "temp": 35.82,
-          "feels_like": 32.99,
-          "temp_min": 35.82,
-          "temp_max": 35.82,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 4,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 5.84,
-          "deg": 257,
-          "gust": 6.24
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 11:00:00"
-      },
-      {
-        "dt": 1687176000,
-        "main": {
-          "temp": 35.94,
-          "feels_like": 33.08,
-          "temp_min": 35.94,
-          "temp_max": 35.94,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 5.77,
-          "deg": 265,
-          "gust": 6.52
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 12:00:00"
-      },
-      {
-        "dt": 1687179600,
-        "main": {
-          "temp": 36.03,
-          "feels_like": 33.15,
-          "temp_min": 36.03,
-          "temp_max": 36.03,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 880,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 5.31,
-          "deg": 272,
-          "gust": 6.64
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 13:00:00"
-      },
-      {
-        "dt": 1687183200,
-        "main": {
-          "temp": 35.83,
-          "feels_like": 32.99,
-          "temp_min": 35.83,
-          "temp_max": 35.83,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.67,
-          "deg": 282,
-          "gust": 6.75
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 14:00:00"
-      },
-      {
-        "dt": 1687186800,
-        "main": {
-          "temp": 35.35,
-          "feels_like": 32.59,
-          "temp_min": 35.35,
-          "temp_max": 35.35,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.99,
-          "deg": 293,
-          "gust": 5.9
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-19 15:00:00"
-      },
-      {
-        "dt": 1687190400,
-        "main": {
-          "temp": 34.41,
-          "feels_like": 31.81,
-          "temp_min": 34.41,
-          "temp_max": 34.41,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 7,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.32,
-          "deg": 303,
-          "gust": 4.99
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 16:00:00"
-      },
-      {
-        "dt": 1687194000,
-        "main": {
-          "temp": 33.83,
-          "feels_like": 31.31,
-          "temp_min": 33.83,
-          "temp_max": 33.83,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 879,
-          "humidity": 8,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.86,
-          "deg": 312,
-          "gust": 4.37
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 17:00:00"
-      },
-      {
-        "dt": 1687197600,
-        "main": {
-          "temp": 32.77,
-          "feels_like": 30.41,
-          "temp_min": 32.77,
-          "temp_max": 32.77,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 880,
-          "humidity": 10,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.04,
-          "deg": 310,
-          "gust": 4.45
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 18:00:00"
-      },
-      {
-        "dt": 1687201200,
-        "main": {
-          "temp": 31.62,
-          "feels_like": 29.44,
-          "temp_min": 31.62,
-          "temp_max": 31.62,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 880,
-          "humidity": 13,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.24,
-          "deg": 311,
-          "gust": 4.52
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 19:00:00"
-      },
-      {
-        "dt": 1687204800,
-        "main": {
-          "temp": 30.9,
-          "feels_like": 28.85,
-          "temp_min": 30.9,
-          "temp_max": 30.9,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 880,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.85,
-          "deg": 320,
-          "gust": 4.1
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 20:00:00"
-      },
-      {
-        "dt": 1687208400,
-        "main": {
-          "temp": 30.44,
-          "feels_like": 28.48,
-          "temp_min": 30.44,
-          "temp_max": 30.44,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.32,
-          "deg": 324,
-          "gust": 3.69
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 21:00:00"
-      },
-      {
-        "dt": 1687212000,
-        "main": {
-          "temp": 29.97,
-          "feels_like": 28.11,
-          "temp_min": 29.97,
-          "temp_max": 29.97,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.73,
-          "deg": 319,
-          "gust": 3.16
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 22:00:00"
-      },
-      {
-        "dt": 1687215600,
-        "main": {
-          "temp": 29.48,
-          "feels_like": 27.73,
-          "temp_min": 29.48,
-          "temp_max": 29.48,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.75,
-          "deg": 322,
-          "gust": 3
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-19 23:00:00"
-      },
-      {
-        "dt": 1687219200,
-        "main": {
-          "temp": 29.11,
-          "feels_like": 27.46,
-          "temp_min": 29.11,
-          "temp_max": 29.11,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 879,
-          "humidity": 15,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.35,
-          "deg": 319,
-          "gust": 2.66
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 00:00:00"
-      },
-      {
-        "dt": 1687222800,
-        "main": {
-          "temp": 28.62,
-          "feels_like": 27.1,
-          "temp_min": 28.62,
-          "temp_max": 28.62,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 879,
-          "humidity": 16,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 0.39,
-          "deg": 343,
-          "gust": 3.01
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 01:00:00"
-      },
-      {
-        "dt": 1687226400,
-        "main": {
-          "temp": 28.19,
-          "feels_like": 26.83,
-          "temp_min": 28.19,
-          "temp_max": 28.19,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 879,
-          "humidity": 18,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.73,
-          "deg": 111,
-          "gust": 4.27
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 02:00:00"
-      },
-      {
-        "dt": 1687230000,
-        "main": {
-          "temp": 28.79,
-          "feels_like": 27.3,
-          "temp_min": 28.79,
-          "temp_max": 28.79,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 880,
-          "humidity": 20,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.88,
-          "deg": 99,
-          "gust": 3.48
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 03:00:00"
-      },
-      {
-        "dt": 1687233600,
-        "main": {
-          "temp": 29.47,
-          "feels_like": 27.88,
-          "temp_min": 29.47,
-          "temp_max": 29.47,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 880,
-          "humidity": 22,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.12,
-          "deg": 137,
-          "gust": 3.09
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 04:00:00"
-      },
-      {
-        "dt": 1687237200,
-        "main": {
-          "temp": 30.44,
-          "feels_like": 28.64,
-          "temp_min": 30.44,
-          "temp_max": 30.44,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 881,
-          "humidity": 21,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.45,
-          "deg": 139,
-          "gust": 2.98
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 05:00:00"
-      },
-      {
-        "dt": 1687240800,
-        "main": {
-          "temp": 31.68,
-          "feels_like": 29.64,
-          "temp_min": 31.68,
-          "temp_max": 31.68,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 19,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.1,
-          "deg": 151,
-          "gust": 2.96
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 06:00:00"
-      },
-      {
-        "dt": 1687244400,
-        "main": {
-          "temp": 32.79,
-          "feels_like": 30.53,
-          "temp_min": 32.79,
-          "temp_max": 32.79,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 16,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.48,
-          "deg": 163,
-          "gust": 2.95
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 07:00:00"
-      },
-      {
-        "dt": 1687248000,
-        "main": {
-          "temp": 33.72,
-          "feels_like": 31.3,
-          "temp_min": 33.72,
-          "temp_max": 33.72,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.1,
-          "deg": 166,
-          "gust": 2.9
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 08:00:00"
-      },
-      {
-        "dt": 1687251600,
-        "main": {
-          "temp": 34.65,
-          "feels_like": 32.08,
-          "temp_min": 34.65,
-          "temp_max": 34.65,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 880,
-          "humidity": 12,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.21,
-          "deg": 176,
-          "gust": 3.57
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 09:00:00"
-      },
-      {
-        "dt": 1687255200,
-        "main": {
-          "temp": 35.27,
-          "feels_like": 32.61,
-          "temp_min": 35.27,
-          "temp_max": 35.27,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 11,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.16,
-          "deg": 186,
-          "gust": 4.28
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 10:00:00"
-      },
-      {
-        "dt": 1687258800,
-        "main": {
-          "temp": 35.72,
-          "feels_like": 32.97,
-          "temp_min": 35.72,
-          "temp_max": 35.72,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 880,
-          "humidity": 10,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.22,
-          "deg": 196,
-          "gust": 5.21
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 11:00:00"
-      },
-      {
-        "dt": 1687262400,
-        "main": {
-          "temp": 35.82,
-          "feels_like": 33.06,
-          "temp_min": 35.82,
-          "temp_max": 35.82,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 10,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.37,
-          "deg": 209,
-          "gust": 5.99
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 12:00:00"
-      },
-      {
-        "dt": 1687266000,
-        "main": {
-          "temp": 35.87,
-          "feels_like": 33.07,
-          "temp_min": 35.87,
-          "temp_max": 35.87,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 878,
-          "humidity": 9,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.06,
-          "deg": 178,
-          "gust": 5.87
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 13:00:00"
-      },
-      {
-        "dt": 1687269600,
-        "main": {
-          "temp": 35.97,
-          "feels_like": 33.16,
-          "temp_min": 35.97,
-          "temp_max": 35.97,
-          "pressure": 1000,
-          "sea_level": 1000,
-          "grnd_level": 878,
-          "humidity": 9,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.22,
-          "deg": 144,
-          "gust": 5.46
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 14:00:00"
-      },
-      {
-        "dt": 1687273200,
-        "main": {
-          "temp": 35.93,
-          "feels_like": 33.12,
-          "temp_min": 35.93,
-          "temp_max": 35.93,
-          "pressure": 1000,
-          "sea_level": 1000,
-          "grnd_level": 878,
-          "humidity": 9,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.62,
-          "deg": 159,
-          "gust": 4.08
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-20 15:00:00"
-      },
-      {
-        "dt": 1687276800,
-        "main": {
-          "temp": 35.28,
-          "feels_like": 32.58,
-          "temp_min": 35.28,
-          "temp_max": 35.28,
-          "pressure": 1000,
-          "sea_level": 1000,
-          "grnd_level": 878,
-          "humidity": 10,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.85,
-          "deg": 162,
-          "gust": 3.89
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 16:00:00"
-      },
-      {
-        "dt": 1687280400,
-        "main": {
-          "temp": 34.76,
-          "feels_like": 32.12,
-          "temp_min": 34.76,
-          "temp_max": 34.76,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 878,
-          "humidity": 10,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.33,
-          "deg": 156,
-          "gust": 4.03
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 17:00:00"
-      },
-      {
-        "dt": 1687284000,
-        "main": {
-          "temp": 34.02,
-          "feels_like": 31.51,
-          "temp_min": 34.02,
-          "temp_max": 34.02,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 878,
-          "humidity": 12,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.44,
-          "deg": 162,
-          "gust": 3.56
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 18:00:00"
-      },
-      {
-        "dt": 1687287600,
-        "main": {
-          "temp": 32.86,
-          "feels_like": 30.59,
-          "temp_min": 32.86,
-          "temp_max": 32.86,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 878,
-          "humidity": 16,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.52,
-          "deg": 255,
-          "gust": 3.05
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 19:00:00"
-      },
-      {
-        "dt": 1687291200,
-        "main": {
-          "temp": 31.71,
-          "feels_like": 29.71,
-          "temp_min": 31.71,
-          "temp_max": 31.71,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 878,
-          "humidity": 20,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.64,
-          "deg": 294,
-          "gust": 3.26
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 20:00:00"
-      },
-      {
-        "dt": 1687294800,
-        "main": {
-          "temp": 30.8,
-          "feels_like": 29.04,
-          "temp_min": 30.8,
-          "temp_max": 30.8,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 877,
-          "humidity": 23,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.96,
-          "deg": 308,
-          "gust": 3.65
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 21:00:00"
-      },
-      {
-        "dt": 1687298400,
-        "main": {
-          "temp": 30.05,
-          "feels_like": 28.49,
-          "temp_min": 30.05,
-          "temp_max": 30.05,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 877,
-          "humidity": 25,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.19,
-          "deg": 306,
-          "gust": 4.6
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 22:00:00"
-      },
-      {
-        "dt": 1687302000,
-        "main": {
-          "temp": 29.43,
-          "feels_like": 27.97,
-          "temp_min": 29.43,
-          "temp_max": 29.43,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 877,
-          "humidity": 25,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.37,
-          "deg": 311,
-          "gust": 4.71
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-20 23:00:00"
-      },
-      {
-        "dt": 1687305600,
-        "main": {
-          "temp": 28.85,
-          "feels_like": 27.51,
-          "temp_min": 28.85,
-          "temp_max": 28.85,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 877,
-          "humidity": 25,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.44,
-          "deg": 313,
-          "gust": 4.69
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 00:00:00"
-      },
-      {
-        "dt": 1687309200,
-        "main": {
-          "temp": 28.38,
-          "feels_like": 27.2,
-          "temp_min": 28.38,
-          "temp_max": 28.38,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 877,
-          "humidity": 26,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.42,
-          "deg": 310,
-          "gust": 4.56
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 01:00:00"
-      },
-      {
-        "dt": 1687312800,
-        "main": {
-          "temp": 28.24,
-          "feels_like": 27.1,
-          "temp_min": 28.24,
-          "temp_max": 28.24,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 877,
-          "humidity": 26,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.46,
-          "deg": 309,
-          "gust": 4.46
-        },
-        "visibility": 10000,
-        "pop": 0.01,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 02:00:00"
-      },
-      {
-        "dt": 1687316400,
-        "main": {
-          "temp": 29.06,
-          "feels_like": 27.63,
-          "temp_min": 29.06,
-          "temp_max": 29.06,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 878,
-          "humidity": 24,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.15,
-          "deg": 302,
-          "gust": 4.13
-        },
-        "visibility": 10000,
-        "pop": 0.01,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 03:00:00"
-      },
-      {
-        "dt": 1687320000,
-        "main": {
-          "temp": 30.12,
-          "feels_like": 28.37,
-          "temp_min": 30.12,
-          "temp_max": 30.12,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 878,
-          "humidity": 21,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.4,
-          "deg": 284,
-          "gust": 4.53
-        },
-        "visibility": 10000,
-        "pop": 0.01,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 04:00:00"
-      },
-      {
-        "dt": 1687323600,
-        "main": {
-          "temp": 31.24,
-          "feels_like": 29.19,
-          "temp_min": 31.24,
-          "temp_max": 31.24,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 879,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.69,
-          "deg": 271,
-          "gust": 5.01
-        },
-        "visibility": 10000,
-        "pop": 0.01,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 05:00:00"
-      },
-      {
-        "dt": 1687327200,
-        "main": {
-          "temp": 32.3,
-          "feels_like": 30.03,
-          "temp_min": 32.3,
-          "temp_max": 32.3,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.97,
-          "deg": 264,
-          "gust": 5.41
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 06:00:00"
-      },
-      {
-        "dt": 1687330800,
-        "main": {
-          "temp": 33.42,
-          "feels_like": 30.97,
-          "temp_min": 33.42,
-          "temp_max": 33.42,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 11,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.07,
-          "deg": 260,
-          "gust": 5.97
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 07:00:00"
-      },
-      {
-        "dt": 1687334400,
-        "main": {
-          "temp": 34.49,
-          "feels_like": 31.87,
-          "temp_min": 34.49,
-          "temp_max": 34.49,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 8,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.93,
-          "deg": 254,
-          "gust": 6.29
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 08:00:00"
-      },
-      {
-        "dt": 1687338000,
-        "main": {
-          "temp": 35.15,
-          "feels_like": 32.43,
-          "temp_min": 35.15,
-          "temp_max": 35.15,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.09,
-          "deg": 249,
-          "gust": 6.56
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 09:00:00"
-      },
-      {
-        "dt": 1687341600,
-        "main": {
-          "temp": 35.56,
-          "feels_like": 32.76,
-          "temp_min": 35.56,
-          "temp_max": 35.56,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.8,
-          "deg": 245,
-          "gust": 6.96
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 10:00:00"
-      },
-      {
-        "dt": 1687345200,
-        "main": {
-          "temp": 35.8,
-          "feels_like": 32.96,
-          "temp_min": 35.8,
-          "temp_max": 35.8,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.97,
-          "deg": 252,
-          "gust": 7.2
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 11:00:00"
-      },
-      {
-        "dt": 1687348800,
-        "main": {
-          "temp": 35.93,
-          "feels_like": 33.07,
-          "temp_min": 35.93,
-          "temp_max": 35.93,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 5,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 5.04,
-          "deg": 268,
-          "gust": 7.89
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 12:00:00"
-      },
-      {
-        "dt": 1687352400,
-        "main": {
-          "temp": 35.86,
-          "feels_like": 33.01,
-          "temp_min": 35.86,
-          "temp_max": 35.86,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 879,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.84,
-          "deg": 283,
-          "gust": 8.4
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 13:00:00"
-      },
-      {
-        "dt": 1687356000,
-        "main": {
-          "temp": 35.72,
-          "feels_like": 32.89,
-          "temp_min": 35.72,
-          "temp_max": 35.72,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 879,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.06,
-          "deg": 299,
-          "gust": 7.65
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 14:00:00"
-      },
-      {
-        "dt": 1687359600,
-        "main": {
-          "temp": 35.39,
-          "feels_like": 32.62,
-          "temp_min": 35.39,
-          "temp_max": 35.39,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 878,
-          "humidity": 6,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.11,
-          "deg": 303,
-          "gust": 5.7
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-21 15:00:00"
-      },
-      {
-        "dt": 1687363200,
-        "main": {
-          "temp": 34.53,
-          "feels_like": 31.91,
-          "temp_min": 34.53,
-          "temp_max": 34.53,
-          "pressure": 1001,
-          "sea_level": 1001,
-          "grnd_level": 878,
-          "humidity": 7,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.86,
-          "deg": 300,
-          "gust": 4.77
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 16:00:00"
-      },
-      {
-        "dt": 1687366800,
-        "main": {
-          "temp": 33.32,
-          "feels_like": 30.87,
-          "temp_min": 33.32,
-          "temp_max": 33.32,
-          "pressure": 1002,
-          "sea_level": 1002,
-          "grnd_level": 879,
-          "humidity": 10,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.5,
-          "deg": 295,
-          "gust": 5.26
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 17:00:00"
-      },
-      {
-        "dt": 1687370400,
-        "main": {
-          "temp": 31.86,
-          "feels_like": 29.66,
-          "temp_min": 31.86,
-          "temp_max": 31.86,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 879,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.63,
-          "deg": 314,
-          "gust": 5.6
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 18:00:00"
-      },
-      {
-        "dt": 1687374000,
-        "main": {
-          "temp": 30.83,
-          "feels_like": 28.81,
-          "temp_min": 30.83,
-          "temp_max": 30.83,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 879,
-          "humidity": 15,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.02,
-          "deg": 315,
-          "gust": 5.39
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 19:00:00"
-      },
-      {
-        "dt": 1687377600,
-        "main": {
-          "temp": 29.85,
-          "feels_like": 28.05,
-          "temp_min": 29.85,
-          "temp_max": 29.85,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 879,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.83,
-          "deg": 315,
-          "gust": 5.26
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 20:00:00"
-      },
-      {
-        "dt": 1687381200,
-        "main": {
-          "temp": 29.22,
-          "feels_like": 27.56,
-          "temp_min": 29.22,
-          "temp_max": 29.22,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 878,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.15,
-          "deg": 327,
-          "gust": 4.86
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 21:00:00"
-      },
-      {
-        "dt": 1687384800,
-        "main": {
-          "temp": 28.74,
-          "feels_like": 27.22,
-          "temp_min": 28.74,
-          "temp_max": 28.74,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 878,
-          "humidity": 18,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.57,
-          "deg": 333,
-          "gust": 4.52
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 22:00:00"
-      },
-      {
-        "dt": 1687388400,
-        "main": {
-          "temp": 28.33,
-          "feels_like": 26.93,
-          "temp_min": 28.33,
-          "temp_max": 28.33,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 878,
-          "humidity": 18,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.65,
-          "deg": 327,
-          "gust": 4.27
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-21 23:00:00"
-      },
-      {
-        "dt": 1687392000,
-        "main": {
-          "temp": 27.93,
-          "feels_like": 26.65,
-          "temp_min": 27.93,
-          "temp_max": 27.93,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 878,
-          "humidity": 18,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.01,
-          "deg": 324,
-          "gust": 4.28
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-22 00:00:00"
-      },
-      {
-        "dt": 1687395600,
-        "main": {
-          "temp": 27.68,
-          "feels_like": 26.48,
-          "temp_min": 27.68,
-          "temp_max": 27.68,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 878,
-          "humidity": 18,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 3.22,
-          "deg": 324,
-          "gust": 4.37
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-22 01:00:00"
-      },
-      {
-        "dt": 1687399200,
-        "main": {
-          "temp": 27.76,
-          "feels_like": 26.51,
-          "temp_min": 27.76,
-          "temp_max": 27.76,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 879,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.33,
-          "deg": 325,
-          "gust": 4.15
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 02:00:00"
-      },
-      {
-        "dt": 1687402800,
-        "main": {
-          "temp": 28.35,
-          "feels_like": 26.93,
-          "temp_min": 28.35,
-          "temp_max": 28.35,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 880,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 0.37,
-          "deg": 240,
-          "gust": 3.49
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 03:00:00"
-      },
-      {
-        "dt": 1687406400,
-        "main": {
-          "temp": 28.64,
-          "feels_like": 27.15,
-          "temp_min": 28.64,
-          "temp_max": 28.64,
-          "pressure": 1007,
-          "sea_level": 1007,
-          "grnd_level": 881,
-          "humidity": 18,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 1.06,
-          "deg": 199,
-          "gust": 3.06
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 04:00:00"
-      },
-      {
-        "dt": 1687410000,
-        "main": {
-          "temp": 29.64,
-          "feels_like": 27.88,
-          "temp_min": 29.64,
-          "temp_max": 29.64,
-          "pressure": 1007,
-          "sea_level": 1007,
-          "grnd_level": 881,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 1.43,
-          "deg": 173,
-          "gust": 2.8
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 05:00:00"
-      },
-      {
-        "dt": 1687413600,
-        "main": {
-          "temp": 30.64,
-          "feels_like": 28.68,
-          "temp_min": 30.64,
-          "temp_max": 30.64,
-          "pressure": 1007,
-          "sea_level": 1007,
-          "grnd_level": 882,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 2.28,
-          "deg": 178,
-          "gust": 3.15
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 06:00:00"
-      },
-      {
-        "dt": 1687417200,
-        "main": {
-          "temp": 31.53,
-          "feels_like": 29.44,
-          "temp_min": 31.53,
-          "temp_max": 31.53,
-          "pressure": 1007,
-          "sea_level": 1007,
-          "grnd_level": 882,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 3
-        },
-        "wind": {
-          "speed": 3.05,
-          "deg": 177,
-          "gust": 3.35
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 07:00:00"
-      },
-      {
-        "dt": 1687420800,
-        "main": {
-          "temp": 32.27,
-          "feels_like": 30.09,
-          "temp_min": 32.27,
-          "temp_max": 32.27,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 882,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 3.12,
-          "deg": 179,
-          "gust": 3.23
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 08:00:00"
-      },
-      {
-        "dt": 1687424400,
-        "main": {
-          "temp": 33.15,
-          "feels_like": 30.86,
-          "temp_min": 33.15,
-          "temp_max": 33.15,
-          "pressure": 1006,
-          "sea_level": 1006,
-          "grnd_level": 882,
-          "humidity": 16,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 2.96,
-          "deg": 184,
-          "gust": 2.92
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 09:00:00"
-      },
-      {
-        "dt": 1687428000,
-        "main": {
-          "temp": 34.02,
-          "feels_like": 31.58,
-          "temp_min": 34.02,
-          "temp_max": 34.02,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 14,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 2.78,
-          "deg": 189,
-          "gust": 2.77
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 10:00:00"
-      },
-      {
-        "dt": 1687431600,
-        "main": {
-          "temp": 34.67,
-          "feels_like": 32.14,
-          "temp_min": 34.67,
-          "temp_max": 34.67,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 13,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 1
-        },
-        "wind": {
-          "speed": 2.49,
-          "deg": 197,
-          "gust": 2.89
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 11:00:00"
-      },
-      {
-        "dt": 1687435200,
-        "main": {
-          "temp": 35.15,
-          "feels_like": 32.54,
-          "temp_min": 35.15,
-          "temp_max": 35.15,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 12,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.2,
-          "deg": 209,
-          "gust": 2.94
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 12:00:00"
-      },
-      {
-        "dt": 1687438800,
-        "main": {
-          "temp": 35.3,
-          "feels_like": 32.64,
-          "temp_min": 35.3,
-          "temp_max": 35.3,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 881,
-          "humidity": 11,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 1.76,
-          "deg": 229,
-          "gust": 2.19
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 13:00:00"
-      },
-      {
-        "dt": 1687442400,
-        "main": {
-          "temp": 35.42,
-          "feels_like": 32.74,
-          "temp_min": 35.42,
-          "temp_max": 35.42,
-          "pressure": 1003,
-          "sea_level": 1003,
-          "grnd_level": 880,
-          "humidity": 11,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.26,
-          "deg": 238,
-          "gust": 2.23
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 14:00:00"
-      },
-      {
-        "dt": 1687446000,
-        "main": {
-          "temp": 35.1,
-          "feels_like": 32.45,
-          "temp_min": 35.1,
-          "temp_max": 35.1,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 11,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01d"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 2.63,
-          "deg": 251,
-          "gust": 2.41
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "d"
-        },
-        "dt_txt": "2023-06-22 15:00:00"
-      },
-      {
-        "dt": 1687449600,
-        "main": {
-          "temp": 33.56,
-          "feels_like": 31.13,
-          "temp_min": 33.56,
-          "temp_max": 33.56,
-          "pressure": 1004,
-          "sea_level": 1004,
-          "grnd_level": 881,
-          "humidity": 13,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.28,
-          "deg": 279,
-          "gust": 4.15
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-22 16:00:00"
-      },
-      {
-        "dt": 1687453200,
-        "main": {
-          "temp": 32.01,
-          "feels_like": 29.86,
-          "temp_min": 32.01,
-          "temp_max": 32.01,
-          "pressure": 1005,
-          "sea_level": 1005,
-          "grnd_level": 881,
-          "humidity": 17,
-          "temp_kf": 0
-        },
-        "weather": [
-          {
-            "id": 800,
-            "main": "Clear",
-            "description": "\u0622\u0633\u0645\u0627\u0646 \u0635\u0627\u0641",
-            "icon": "01n"
-          }
-        ],
-        "clouds": {
-          "all": 0
-        },
-        "wind": {
-          "speed": 4.21,
-          "deg": 300,
-          "gust": 4.56
-        },
-        "visibility": 10000,
-        "pop": 0,
-        "sys": {
-          "pod": "n"
-        },
-        "dt_txt": "2023-06-22 17:00:00"
-      }
-    ]
-  }
+  "status": "ok",
+  "totalResults": 13033,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Kamal Sultan",
+      "title": "Serial criminal accused of murdering pregnant Seattle restaurant owner glares at camera and nods",
+      "description": "A serial criminal accused of murdering a restaurant owner who was eight months pregnant glared and nodded his head at a camera as he was perp-walked.",
+      "url": "https://www.dailymail.co.uk/news/article-12206493/Serial-criminal-accused-murdering-pregnant-Seattle-restaurant-owner-glares-camera-nods.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/17/23/72254539-0-image-a-7_1687039333018.jpg",
+      "publishedAt": "2023-06-17T22:26:16Z",
+      "content": "A serial criminal accused of murdering a restaurant owner who was eight months pregnant glared and nodded his head at a camera as he was perp-walked. \r\nCordell Goosby allegedly fired several shots in… [+3662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Idnes.cz"
+      },
+      "author": "ČTK, František Dvořák",
+      "title": "Autogalerie týdne: Výroba prvního auta na vodík odstartovala před 15 lety",
+      "description": "Je to symbolické, čeští ministři tento týden převzali oficiálně vodíkové vozy, které budou jejich úřady rok testovat. Marian Jurečka a Petr Hladík představili Toyotu Mirai, která si vyrábí elektřinu v palivovém článku. Přesně před patnácti lety vyjelo první s…",
+      "url": "https://www.idnes.cz/auto/zpravodajstvi/honda-vodik-fcx-clarity.A230615_081734_automoto_fdv",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2023/6/FDV7a087f59c3_13161_fcx_clarity.jpg",
+      "publishedAt": "2023-06-17T22:00:00Z",
+      "content": "Japonská automobilka Honda trochu pedbhla dobu, kdy 16. ervna 2008 zahájila produkci modelu FCX Clarity, prvního sériov vyrábného vozidla s vodíkovým pohonem na svt. tydveový sedan byl vybaven palivo… [+1147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VOA News"
+      },
+      "author": "VOA Learning English",
+      "title": "Could Solid-State Batteries Improve EVs?",
+      "description": "This week, Toyota announced that it had reached a \"technological breakthrough\" in the development of solid-state batteries. The company said it has overcome an issue with the durability of solid-state batteries. It said it is ready to move from research towar…",
+      "url": "https://learningenglish.voanews.com/a/could-solid-state-batteries-improve-ev/7138629.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-4c54-08db0ed013ec_cx0_cy3_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-06-17T21:55:06Z",
+      "content": "Toyota Motor Corporation of Japan is one of the worlds largest carmakers. The company has faced criticism for being slow to develop electric vehicles (EVs).\r\nThis week, Toyota announced that it had r… [+3551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fortune.com",
+      "title": "Elon Musk ‘didn’t think anyone would actually agree’ to the A.I. pause he called for",
+      "description": "Elon Musk made waves in March when he called for a pause on A.I. development, joining hundreds of other tech luminaries in signing an open letter warning of the dangers of advanced artificial intelligence. But he never thought anyone would heed the call, appa…",
+      "url": "https://biztoc.com/x/bbd143a85a024a53",
+      "urlToImage": "https://c.biztoc.com/p/bbd143a85a024a53/og.webp",
+      "publishedAt": "2023-06-17T21:46:07Z",
+      "content": "Elon Musk made waves in March when he called for a pause on A.I. development, joining hundreds of other tech luminaries in signing an open letter warning of the dangers of advanced artificial intelli… [+286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Cathie Wood Sold More Tesla Stock. She Might Not Be Done",
+      "description": "Cathie Wood's ARK Invest Innovation ETF disclosed more sales of Tesla stock on Friday evening. #cathiewood #arkinvestinnovation #tesla",
+      "url": "https://biztoc.com/x/be7593cf4a019f8e",
+      "urlToImage": "https://c.biztoc.com/p/be7593cf4a019f8e/s.webp",
+      "publishedAt": "2023-06-17T21:16:04Z",
+      "content": "Cathie Wood's ARK Invest Innovation ETF disclosed more sales of Tesla stock on Friday evening.\r\n#cathiewood#arkinvestinnovation#tesla\r\nThis story appeared on barrons.com, ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "abcnews.go.com",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq 5 SUVs",
+      "description": "DETROIT -- Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Highway Traffic Safety Administration said Saturday. Hyundai sa…",
+      "url": "https://biztoc.com/x/e35f221e80055bb9",
+      "urlToImage": "https://c.biztoc.com/p/e35f221e80055bb9/og.webp",
+      "publishedAt": "2023-06-17T21:14:07Z",
+      "content": "DETROIT -- Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Hig… [+292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Carolyn Fortuna",
+      "title": "The Ongoing, Systemic Changes That Have Kept Tesla’s Competitors Scrambling",
+      "description": "Tesla has played the role of industry torchbearer, differentiating itself in terms of brand image, function design, sales model, in-car intelligence, and service platforms.",
+      "url": "https://cleantechnica.com/2023/06/17/the-ongoing-systemic-changes-that-have-kept-teslas-competitors-scrambling/",
+      "urlToImage": "http://cleantechnica.com/files/2023/06/2-Teslas-charging.jpg",
+      "publishedAt": "2023-06-17T20:57:02Z",
+      "content": "Sustainable travel is essential for a low-carbon society, but the long view for many had been that EVs posed too large a threat to the profitability of the conventional fossil-powered auto industry. … [+8015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "slicklupaka",
+      "title": "Georgia Power Customers: JuiceBox 40 Wi-Fi Enabled EV Charging Station - 40 Amp $279 after instant rebates",
+      "description": "Georgia Power has the JuiceBox 40 Wi-Fi Enabled EV Charging Station - 40 Amp, Model 2JBO401RNA-HJWX-300, for $279 after instant rebates for Georgia Power Residential electric customers.  Free shipping ...",
+      "url": "https://slickdeals.net/f/16726403-georgia-power-customers-juicebox-40-wi-fi-enabled-ev-charging-station-40-amp-279-after-instant-rebates",
+      "urlToImage": "https://slickdeals.net/images/avatar/sd/new/sd-facebook-5-2.png",
+      "publishedAt": "2023-06-17T20:55:06Z",
+      "content": "Georgia Power[georgiapowermarketplace.com] has the JuiceBox 40 Wi-Fi Enabled EV Charging Station - 40 Amp, Model 2JBO401RNA-HJWX-300, for $279 after instant rebates for Georgia Power Residential elec… [+3926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "U.S. Department of Energy",
+      "title": "Sandia Scientists Achieve Breakthrough in Tackling PFAS Contamination",
+      "description": "A team at Sandia National Laboratories is developing materials to tackle what has become one of the biggest problems in the human exposure",
+      "url": "https://cleantechnica.com/2023/06/17/sandia-scientists-achieve-breakthrough-in-tackling-pfas-contamination/",
+      "urlToImage": "http://cleantechnica.com/files/2023/04/Water-Plant-Ecosystem-CleanTechnica-Watermark.png",
+      "publishedAt": "2023-06-17T20:53:37Z",
+      "content": "ALBUQUERQUE, N.M. A team at Sandia National Laboratories is developing materials to tackle what has become one of the biggest problems in the world: human exposure to a group of chemicals known as PF… [+7705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "This is Money"
+      },
+      "author": "Calum Muirhead",
+      "title": "Short seller makes millions by exposing corporate wrongdoing, at a high price",
+      "description": "Perring runs Viceroy Research, which makes its money by betting against companies and then releasing research reports into their activities.",
+      "url": "https://www.thisismoney.co.uk/money/markets/article-12205997/Short-seller-makes-millions-exposing-corporate-wrongdoing-high-price.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/17/16/72247357-0-image-a-108_1687015209606.jpg",
+      "publishedAt": "2023-06-17T20:52:19Z",
+      "content": "Maverick: Fraser Perring heads short-selling firm Viceroy Research\r\nRelaxing on a couch in the living room of his newly-built house, former social worker turned short-seller Fraser Perring does not s… [+7919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Cathie Wood Sold More Tesla Stock. She Might Not Be Done.",
+      "description": "Cathie Wood's ARK Invest Innovation ETF disclosed more sales of Tesla stock on Friday evening.",
+      "url": "https://www.barrons.com/articles/cathie-wood-tesla-ark-invest-arkk-dc49659e",
+      "urlToImage": "https://images.barrons.com/im-701549/social",
+      "publishedAt": "2023-06-17T20:50:16Z",
+      "content": "ARK Invests ARK Innovation exchange-traded fund sold another 62,415 shares of Tesla worth about $16 million, the asset management company founded by Cathie Wood disclosed on Friday evening.The news o… [+2183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "This is Money"
+      },
+      "author": "Hamish Mcrae",
+      "title": "HAMISH MCRAE: Big Tech's investing dilemmas",
+      "description": "What is generally clear, though, is that the recovery in US equities is narrowly based, and that makes it vulnerable.",
+      "url": "https://www.thisismoney.co.uk/money/comment/article-12205971/HAMISH-MCRAE-Big-Techs-investing-dilemmas.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/17/17/72248751-0-image-a-150_1687019949001.jpg",
+      "publishedAt": "2023-06-17T20:50:12Z",
+      "content": "Big Tech is back in style. The soaring share prices of the American giants have pushed the S&amp;P 500 index up by more than 20 per cent from its trough last October, so, technically, it's a bull mar… [+4616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Cathie Wood Sold More Tesla Stock. She Might Not Be Done",
+      "description": "Cathie Wood's ARK Invest Innovation ETF disclosed more sales of Tesla stock on Friday evening. #cathiewood #arkinvestinnovation #tesla",
+      "url": "https://biztoc.com/x/24ca3448f083fd83",
+      "urlToImage": "https://c.biztoc.com/p/24ca3448f083fd83/s.webp",
+      "publishedAt": "2023-06-17T20:40:08Z",
+      "content": "Cathie Wood's ARK Invest Innovation ETF disclosed more sales of Tesla stock on Friday evening.\r\n#cathiewood#arkinvestinnovation#tesla\r\nThis story appeared on barrons.com, ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Erin Silvia",
+      "title": "Elon Musk Bonds With Gorgeous Mom Maye Musk, 75, In Paris: Photos",
+      "description": "The Tesla CEO was dressed to impress when he met the French president with his mother and ex-wife Talulah Riley.",
+      "url": "https://hollywoodlife.com/2023/06/17/elon-musk-mom-maye-paris-outing-photos/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/06/elon-musk-maye-musk-backgrid-ftr.jpg",
+      "publishedAt": "2023-06-17T20:34:00Z",
+      "content": "View galleryImage Credit: BACKGRID\r\nElon Musk, 51, stepped out for a memorable lunch and tech conference with his mom Maye Musk, 75, and the French president Emmanuel Macron in Paris, France on Frida… [+2238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eldiario.es"
+      },
+      "author": "Javier de la Sotilla",
+      "title": "Estados Unidos: la primera economía mundial, a la cola de los países ricos en derechos laborales",
+      "description": "El país más rico del mundo está rezagado a la hora de garantizar salarios, protecciones y derechos para millones de trabajadores. El cabildeo que ejercen las grandes empresas en Estados Unidos, dominado durante décadas por el neoliberalismo, ha ido dando form…",
+      "url": "https://www.eldiario.es/internacional/estados-unidos-primera-economia-mundial-cola-paises-ricos-derechos-laborales_1_10299775.html",
+      "urlToImage": "https://static.eldiario.es/clip/dfb60945-1e9f-4c55-886b-92774f92177d_facebook-watermarked-aspect-ratio_default_0_x1026y337.jpg",
+      "publishedAt": "2023-06-17T20:21:44Z",
+      "content": "El país más rico del mundo está rezagado a la hora de garantizar salarios, protecciones y derechos para millones de trabajadores. El cabildeo que ejercen las grandes empresas en Estados Unidos, domin… [+8270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Tesla's Cybertruck Update, Rivian To Lose Spot On Nasdaq 100, Nio Backtracks On Pricing Strategy And More: Biggest EV Stories Of The Week",
+      "description": "Electric vehicle stocks closed the week that ended on June 16 on an upbeat note, benefiting from the positive broader market sentiment as the Federal Reserve hit the pause button. Market leader Tesla, Inc. TSLA raced to an eight-and-a-half month high despite …",
+      "url": "https://biztoc.com/x/0180e071dc60f7da",
+      "urlToImage": "https://c.biztoc.com/p/0180e071dc60f7da/og.webp",
+      "publishedAt": "2023-06-17T19:46:06Z",
+      "content": "Electric vehicle stocks closed the week that ended on June 16 on an upbeat note, benefiting from the positive broader market sentiment as the Federal Reserve hit the pause button. Market leader Tesla… [+309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Antonella Baccaro",
+      "title": "Traslochi e novità a Viale Mazzini \nCambia tutta la domenica di Rai3",
+      "description": "Maggioni al posto di Annunziata, «Report» sostituisce Fazio. Svolta per Tg1 Mattina",
+      "url": "https://www.corriere.it/spettacoli/23_giugno_17/03-spettacoli-documentobcorriere-web-sezioni-0ff90970-0d3f-11ee-a463-2efa0d37ea3a.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/06/18/bca8e400-0d40-11ee-a463-2efa0d37ea3a.jpg",
+      "publishedAt": "2023-06-17T19:44:22Z",
+      "content": "di Antonella BaccaroMaggioni al posto di Annunziata, «Report» sostituisce Fazio. Svolta per Tg1 Mattina\r\nROMA — Monica Maggioni nella fascia informativa domenicale del pomeriggio. A sera, «Report», c… [+3853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "news.bitcoin.com",
+      "title": "Tesla’s Elon Musk Denies Dogecoin Whale Allegations, Attorney Challenges Wallet Associations",
+      "description": "According to a recent letter viewed by the press, Elon Musk denies being a dogecoin (DOGE) whale in the lawsuit that accuses the Tesla executive of engaging in pump-and-dump activities with the meme coin token, which allegedly harmed retail investors. Musk’s …",
+      "url": "https://biztoc.com/x/5ba572549f880a02",
+      "urlToImage": "https://c.biztoc.com/p/5ba572549f880a02/s.webp",
+      "publishedAt": "2023-06-17T19:36:05Z",
+      "content": "According to a recent letter viewed by the press, Elon Musk denies being a dogecoin (DOGE) whale in the lawsuit that accuses the Tesla executive of engaging in pump-and-dump activities with the meme … [+302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "foxbusiness.com",
+      "title": "Musk says Tesla close to reaching vehicle autonomy",
+      "description": "Elon Musk said Friday that Tesla is close to achieving fully autonomous vehicles. Speaking at the VivaTech conference in Paris, the billionaire said that autonomy was the \"main driver\" of its market value. \"Although I've said this before, I think we will solv…",
+      "url": "https://biztoc.com/x/8f849e22dbcc9787",
+      "urlToImage": "https://c.biztoc.com/p/8f849e22dbcc9787/og.webp",
+      "publishedAt": "2023-06-17T19:31:05Z",
+      "content": "Elon Musk said Friday that Tesla is close to achieving fully autonomous vehicles.Speaking at the VivaTech conference in Paris, the billionaire said that autonomy was the \"main driver\" of its market v… [+292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elcomercio.com"
+      },
+      "author": "Alejandro Caceres, Europa Press",
+      "title": "Elon Musk confía en su estrategia para Twitter",
+      "description": "Elon Musk es consciente de que la adquisición de Twitter ha sido una apuesta cara, pero confía en los cambios que está haciendo",
+      "url": "https://www.elcomercio.com/tendencias/redes-sociales/elon-musk-twitter-estrategia-redes-sociales.html",
+      "urlToImage": "https://www.elcomercio.com/wp-content/uploads/2023/06/6-11.jpg",
+      "publishedAt": "2023-06-17T19:23:34Z",
+      "content": "A Elon le preocupaba que Twitter tuviera un efecto negativo en la civilización. Foto: Europa PressElon Musk es consciente de que la adquisición de Twitter ha sido una apuesta cara, pero confía en que… [+4330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BFMTV"
+      },
+      "author": null,
+      "title": "VivaTech: l'édition 2023 a accueilli 150.000 visiteurs, un record",
+      "description": "L'édition 2023, consacrée notamment à l'intelligence artificielle, a été marquée par la venue d'Elon Musk.",
+      "url": "https://www.bfmtv.com/tech/viva-tech-l-edition-2023-a-accueilli-150-000-visiteurs-un-record_AN-202306170427.html",
+      "urlToImage": "https://images.bfmtv.com/bpQxRCEGj2dfV-9CFekhSBuFhxo=/0x53:1024x629/1024x0/images/Les-visiteurs-arrivent-au-salon-de-l-innovation-et-des-start-ups-technologiques-Vivatech-a-Paris-le-14-juin-2023-1658379.jpg",
+      "publishedAt": "2023-06-17T19:22:45Z",
+      "content": "L'édition 2023, consacrée notamment à l'intelligence artificielle, a été marquée par la venue d'Elon Musk.\r\nClap de fin. Le salon VivaTech qui s'est tenu à Paris depuis mercredi a fermé ses portes ce… [+1036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "三立新聞網",
+      "title": "投資特斯拉賺翻！陸行之「嗨買Model S」親曝款式：瞬間加速嚇死人",
+      "description": "記者王翊綺／台北報導 電動車龍頭特斯拉（Tesla）日前股價連漲，市值暴增超過2000億美元，知名半導體分析師陸行之今（18）透露，他靠著投資特斯拉賺的錢，上週五（1",
+      "url": "https://tw.news.yahoo.com/%E6%8A%95%E8%B3%87%E7%89%B9%E6%96%AF%E6%8B%89%E8%B3%BA%E7%BF%BB-%E9%99%B8%E8%A1%8C%E4%B9%8B-%E5%97%A8%E8%B2%B7model-%E8%A6%AA%E6%9B%9D%E6%AC%BE%E5%BC%8F-%E7%9E%AC%E9%96%93%E5%8A%A0%E9%80%9F%E5%9A%87%E6%AD%BB%E4%BA%BA-031022145.html",
+      "urlToImage": "https://media.zenfs.com/ko/setn.com.tw/ec6bf578ddda141eff9a27622e7e5fb6",
+      "publishedAt": "2023-06-17T19:10:22Z",
+      "content": "2000BMWE46 BMW M3 Touring22BMW M50BMW M3 Competition TouringBMW M3 Competition TouringBMW M3 CompetitionTouringBMW MMBMWM GmbHBMW M3 Competition TouringM TwinPower Turbo510 6502,750-5,5000-100km/h3.6… [+32 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "reuters.com",
+      "title": "Musk says vehicle autonomy is 'main driver' of Tesla value",
+      "description": "Tesla is close to achieving fully autonomous vehicles, CEO Elon Musk said during a visit to Paris on Friday, adding autonomy was the \"main driver\" of the brand's market value.#tesla #elonmusk",
+      "url": "https://biztoc.com/x/749aa8261fbdbda3",
+      "urlToImage": "https://c.biztoc.com/p/749aa8261fbdbda3/og.webp",
+      "publishedAt": "2023-06-17T19:02:04Z",
+      "content": "Tesla is close to achieving fully autonomous vehicles, CEO Elon Musk said during a visit to Paris on Friday, adding autonomy was the \"main driver\" of the brand's market value.\r\n#tesla#elonmusk\r\nThis … [+31 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fortune.com",
+      "title": "Elon Musk says he ‘didn’t think anyone would actually agree’ to the A.I. pause he called for",
+      "description": "Elon Musk made waves in March when he called for a pause on A.I. development, joining hundreds of other tech luminaries in signing an open letter warning of the dangers of advanced artificial intelligence. But he never thought anyone would heed the call, appa…",
+      "url": "https://biztoc.com/x/49692b788f04f255",
+      "urlToImage": "https://c.biztoc.com/p/49692b788f04f255/s.webp",
+      "publishedAt": "2023-06-17T18:58:04Z",
+      "content": "Elon Musk made waves in March when he called for a pause on A.I. development, joining hundreds of other tech luminaries in signing an open letter warning of the dangers of advanced artificial intelli… [+286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizchina.com"
+      },
+      "author": "Κυν. Αίγειρος",
+      "title": "Aehra Sedan: όταν οι Ιταλοί έχουν έμπνευση…",
+      "description": "Η Aehra συνεχίζει να υπόσχεται και συνεχίζει να προσφέρει – η εταιρεία υποσχέθηκε το πιο επαναστατικό SUV πέρυσι και το έκανε. Πριν από λίγο καιρό, ...\nThe post Aehra Sedan: όταν οι Ιταλοί έχουν έμπνευση… appeared first on GizChina Greece.",
+      "url": "https://gr.gizchina.com/2023/06/17/aehra-sedan-otan-oi-italoi-echoyn-empneysi/",
+      "urlToImage": "https://gr.gizchina.com/wp-content/uploads/2023/06/Aehra-Sedan-1.jpg",
+      "publishedAt": "2023-06-17T18:48:27Z",
+      "content": "Aehra – SUV . , Aehra SUV . , Aehra !  Aehra Sedan. 4 4 . , Aehra , . Aehra – – , , renders – .\r\n, , , ; Aehra , Aehra . Aehra Sedan SUV, 120 kWh Miba. 5,1 m, SUV. , SUV Sedan Tesla Model S Plaid. 80… [+324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theanarchistlibrary.org"
+      },
+      "author": null,
+      "title": "Bullshit Jobs by David Graeber (2018)",
+      "description": "David Graeber Bullshit Jobs A Theory May 15, 2018, originally published. ISBN 978-1-5011-4331-1, ISBN 978-1-5011-4334-2 (ebook); Most names and many...",
+      "url": "https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs",
+      "urlToImage": "https://theanarchistlibrary.org/uploads/en/thumbnails/d-g-david-graeber-bullshit-jobs-1.jpg.large.png",
+      "publishedAt": "2023-06-17T18:46:05Z",
+      "content": "To anyone who would rather be doing something useful with themselves.\r\nPreface: On the Phenomenon of Bullshit Jobs\r\nIn the spring of 2013, I unwittingly set off a very minor international sensation.\r… [+719736 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Steve Mollman",
+      "title": "Elon Musk says he ‘didn’t think anyone would actually agree’ to the A.I. pause he called for",
+      "description": "Many took the open letter calling for a pause seriously, including its signatories and critics.",
+      "url": "https://fortune.com/2023/06/17/elon-musk-ai-pause-open-letter-did-not-think-anyone-would-actually-agree/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1499013421-e1687026444444.jpg?resize=1200,600",
+      "publishedAt": "2023-06-17T18:44:13Z",
+      "content": "Elon Musk made waves in March when he called for a pause on A.I. development, joining hundreds of other tech luminaries in signing an open letter warning of the dangers of advanced artificial intelli… [+2131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Steve Mollman",
+      "title": "Elon Musk ‘didn’t think anyone would actually agree’ to the A.I. pause he called for",
+      "description": "Many took the open letter calling for a pause seriously, including its signatories and critics.",
+      "url": "https://finance.yahoo.com/news/elon-musk-didn-t-think-184413623.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t0CF9inoVvhAbwFoQKEJBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDQ-/https://media.zenfs.com/en/fortune_175/f1b83c8f40f1d5d59731e18c9992b5a9",
+      "publishedAt": "2023-06-17T18:44:13Z",
+      "content": "Elon Musk made waves in March when he called for a pause on A.I. development, joining hundreds of other tech luminaries in signing an open letter warning of the dangers of advanced artificial intelli… [+2471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Elon Musk Denies Owning Dogecoin In Response To Insider Trading Lawsuit",
+      "description": "Tesla CEO Elon Musk has denied owning Dogecoin DOGE/USD, in response to a lawsuit accusing him of price manipulation involving the meme-based cryptocurrency. The New York Post reported on Thursday that Musk's lawyer Alex Spiro said that allegations that his c…",
+      "url": "https://biztoc.com/x/5cb9875bd06decea",
+      "urlToImage": "https://c.biztoc.com/p/5cb9875bd06decea/s.webp",
+      "publishedAt": "2023-06-17T18:38:05Z",
+      "content": "Tesla CEO Elon Musk has denied owning Dogecoin DOGE/USD, in response to a lawsuit accusing him of price manipulation involving the meme-based cryptocurrency.The New York Post reported on Thursday tha… [+290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Elon Musk Denies Owning Dogecoin In Response To Insider Trading Lawsuit",
+      "description": "Tesla CEO Elon Musk has denied owning Dogecoin DOGE/USD, in response to a lawsuit accusing him of price manipulation involving the meme-based cryptocurrency. The New York Post reported on Thursday that Musk's lawyer Alex Spiro said that allegations that his c…",
+      "url": "https://biztoc.com/x/5cb9875bd06decea",
+      "urlToImage": "https://c.biztoc.com/p/5cb9875bd06decea/s.webp",
+      "publishedAt": "2023-06-17T18:38:05Z",
+      "content": "Tesla CEO Elon Musk has denied owning Dogecoin DOGE/USD, in response to a lawsuit accusing him of price manipulation involving the meme-based cryptocurrency.The New York Post reported on Thursday tha… [+290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Fred Lambert",
+      "title": "Tesla announces it produced 10 million 4680 battery cells at Giga Texas",
+      "description": "Tesla announced it produced 10 million 4680 battery cells at Gigafactory Texas. It is a good sign for the automaker’s production ramp-up, which relies heavily on the new cell.\n more…\nThe post Tesla announces it produced 10 million 4680 battery cells at Giga T…",
+      "url": "https://electrek.co/2023/06/17/tesla-produced-10-million-4680-battery-cells-giga-texas/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-4680-Battery-cell.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-06-17T18:36:36Z",
+      "content": "Tesla announced it produced 10 million 4680 battery cells at Gigafactory Texas. It is a good sign for the automaker’s production ramp-up, which relies heavily on the new cell.\r\nThe 4680 battery cell … [+1553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "The National Post",
+      "title": "DeSantis Exempts Elon Musk’s Tesla from Florida Car Sales Law",
+      "description": "Ron DeSantis has signed a law banning automakers from selling cars direct to consumers in Florida – but it contains a carve-out that will benefit his political backer Elon Musk and his Tesla company.House Bill 637 requires most automakers to sell to Floridian…",
+      "url": "https://freerepublic.com/focus/f-news/4161588/posts",
+      "urlToImage": null,
+      "publishedAt": "2023-06-17T18:27:42Z",
+      "content": "Skip to comments.\r\nDeSantis Exempts Elon Musks Tesla from Florida Car Sales LawThe National Post ^\r\n | June 16, 2023\r\n | JACK MONTGOMERY\r\nPosted on 06/17/2023 11:27:42 AM PDT by SoConPubbie\r\nRon DeSa… [+2770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "El Financiero"
+      },
+      "author": "Angelina Rascouet / Bloomberg",
+      "title": "Musk y Bernard Arnault, los dos hombres más ricos del mundo desayunaron juntos: ¿Qué sabemos?",
+      "description": "LVMH posee marcas como Louis Vuitton y Christian Dior, importantes anunciantes en plataformas de redes sociales como Instagram, TikTok y también Twitter.",
+      "url": "https://www.elfinanciero.com.mx/millonarios/2023/06/17/musk-y-bernard-arnault-los-dos-hombres-mas-ricos-del-mundo-desayunaron-juntos-que-sabemos/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/hmUrT4CwuO4R2ErTwzxBMnGb7uA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LOY6CVMB3VGMVLO2ZUQ35ASEGA.jpeg",
+      "publishedAt": "2023-06-17T18:16:36Z",
+      "content": "Los dos individuos más ricos del mundo almorzaron juntos el viernes en París. El fundador de Tesla, Elon Musk, y Bernard Arnault, director ejecutivo y accionista mayoritario de LVMH Moet Hennessy Lou… [+1919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rg.ru"
+      },
+      "author": null,
+      "title": "Маск объяснил дорогостоящую покупку Twitter",
+      "description": "Американский бизнесмен и основатель Tesla и Space X Илон Маск объяснил, почему согласился купить социальную сеть Twitter (заблокирована в России) по завышенной цене. Предприниматель хотел изменить вектор развития компании, пишет издание Business Insider.",
+      "url": "https://rg.ru/2023/06/17/mask-obiasnil-dorogostoiashchuiu-pokupku-twitter.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/photogallery/2022/10/24/000_32lg9wnjpg_ef1.jpg",
+      "publishedAt": "2023-06-17T18:04:05Z",
+      "content": ", , \" \" . , Twitter . 90 , . 95 .\r\n, Twitter 27 2022 . . 44 . 17 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Pedro Borges Spadoni",
+      "title": "Apocalipse? IA tem outros perigos mais reais, segundo especialista",
+      "description": "Esqueça o apocalipse causado pela IA - os perigos reais já estão aqui e são bem preocupantes, alertou especialista; entenda\nO post Apocalipse? IA tem outros perigos mais reais, segundo especialista apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/06/17/internet-e-redes-sociais/ia-tem-perigos-mais-reais-que-apocalipse-segundo-especialista/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/06/Destaque-inteligencia-artificial.jpg",
+      "publishedAt": "2023-06-17T17:43:51Z",
+      "content": "Duas semanas apÃ³s os membros do Congresso dos EUA questionaram o CEO da OpenAI, Sam Altman, sobre o potencial das ferramentas de IA (inteligÃªncia artificial) para espalhar desinformaÃ§Ã£o, interrom… [+7518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Daniel Jimenez",
+      "title": "5 proyectos cripto de IA y blockchain para tener en cuenta en 2023",
+      "description": "Explora los proyectos cripto de IA y blockchain que están generando impacto en el futuro: SingularityNET, Ocean Protocol, Fetch.ai, Numeraire y Render Network. Estos proyectos muestran un prometedor potencial de crecimiento y adopción en 2023.\n \nLa inteligenc…",
+      "url": "https://es.cointelegraph.com/news/5-ai-and-blockchain-crypto-projects-to-look-out-for-in-2023",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MTdhNDlmYTQwNGI0ODYxNTdiMDcwNGU0YmEzMTEzMy5qcGc=.jpg",
+      "publishedAt": "2023-06-17T17:43:00Z",
+      "content": "La inteligencia artificial (IA) es una de las tecnologías más disruptivas y prometedoras de nuestro tiempo. Su aplicación en diversos campos, como la medicina, la educación, la seguridad, el entreten… [+8583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "insideevs.com",
+      "title": "Are Cost Misunderstandings Hurting Mass EV Adoption?",
+      "description": "Electric car sales are on the uptick. In January 2023, EVs accounted for 7.1 percent of the U.S. new car market share. Broadening out to the first quarter of this year, most manufacturers are seeing massive sales increases, with Tesla, Ford, Volkswagen, and o…",
+      "url": "https://biztoc.com/x/6db4a31e90a90823",
+      "urlToImage": "https://c.biztoc.com/p/6db4a31e90a90823/og.webp",
+      "publishedAt": "2023-06-17T17:34:05Z",
+      "content": "Electric car sales are on the uptick. In January 2023, EVs accounted for 7.1 percent of the U.S. new car market share. Broadening out to the first quarter of this year, most manufacturers are seeing … [+278 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Thomas D. Williams, Ph.D., Thomas D. Williams, Ph.D.",
+      "title": "Italian PM Giorgia Meloni Bonds with Elon Musk over Low Birthrates",
+      "description": "Italian Prime Minister Giorgia Meloni met with Tesla founder and Twitter owner Elon Musk for an hour and a half in Rome this week, bonding over concerns about low natality rates.",
+      "url": "https://www.breitbart.com/tech/2023/06/17/italian-pm-giorgia-meloni-bonds-elon-musk-low-birthrates/",
+      "urlToImage": "https://media.breitbart.com/media/2023/06/Giorgia-Meloni-and-Elon-Musk-meet-in-Italy-in-June-2023.-640x335.jpg",
+      "publishedAt": "2023-06-17T17:28:46Z",
+      "content": "Italian Prime Minister Giorgia Meloni met with Tesla founder and Twitter owner Elon Musk for an hour and a half in Rome this week, bonding over concerns about low natality rates.\r\nMeloni said it was … [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Detroit News"
+      },
+      "author": "Associated Press",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq 5 SUVs",
+      "description": "Regulators say multiple owners of the electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise.",
+      "url": "https://www.detroitnews.com/story/business/autos/foreign/2023/06/17/hyundai-ioniq-5-power-problems-nhtsa/70333004007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/13/PDTN/9effbce2-31d8-44fd-adf7-a613ea3ab4f7-Large-45010-HyundaiIONIQ5RedefinesElectricMobilityLifestyle.jpg?auto=webp&crop=1386,780,x292,y412&format=pjpg&width=1200",
+      "publishedAt": "2023-06-17T17:21:11Z",
+      "content": "Detroit Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Highwa… [+1670 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Frédéric Lemaître, Piotr Smolar",
+      "title": "Anthony Blinken attendu à Pékin pour une visite sans illusion",
+      "description": "Le secrétaire d’Etat américain avait annulé le déplacement prévu en mars en raison du survol des Etats-Unis par un ballon espion chinois. Depuis, les sujets de contentieux n’ont cessé de s’accumuler.",
+      "url": "https://www.lemonde.fr/international/article/2023/06/17/anthony-blinken-attendu-a-pekin-pour-une-visite-sans-illusion_6178096_3210.html",
+      "urlToImage": "https://img.lemde.fr/2023/06/16/1/0/5500/3666/1440/960/60/0/db0d858_1686923218309-2022-09-23t000000z-86701017-rc22nw921frd-rtrmadp-3-usa-china.JPG",
+      "publishedAt": "2023-06-17T17:00:18Z",
+      "content": "Antony Blinken, le secrétaire dÉtat américain, est attendu dimanche 18 juin à Pékin. En soi, cette visite constitue un événement. En novembre 2022, les présidents Joe Biden et Xi Jinping, qui se renc… [+3036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "thestreet.com",
+      "title": "Elon Musk Offers a Deal to the World",
+      "description": "Elon Musk wants to leave his mark on the world. The billionaire wants to go down in history as one of the greatest innovators the world has ever known. The fame of the serial entrepreneur is universal. He became a global CEO last year, revered around the worl…",
+      "url": "https://biztoc.com/x/13ee0ebcc33097a2",
+      "urlToImage": "https://c.biztoc.com/p/13ee0ebcc33097a2/s.webp",
+      "publishedAt": "2023-06-17T17:00:13Z",
+      "content": "Elon Musk wants to leave his mark on the world. The billionaire wants to go down in history as one of the greatest innovators the world has ever known. The fame of the serial entrepreneur is universa… [+301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Donanimhaber.com"
+      },
+      "author": "Metin Akpınar",
+      "title": "Elon Musk: “Madem bu kadar akıllıyım, Twitter için neden bu kadar para ödedim?”",
+      "description": "Elon Musk Paris'te katıldığı bir konferansta ilginç söylemlerde bulundu ve enterasan bir soru sordu: \"Madem bu kadar akıllıyım neden Twitter'a bu kadar para ödedim?\"",
+      "url": "https://www.donanimhaber.com/elon-musk-twitter-i-satin-aldigi-icin-kendisiyle-dalga-gecti--164965",
+      "urlToImage": "https://www.donanimhaber.com/images/images/haber/164965/src_340x1912xelon-musk-twitter-i-satin-aldigi-icin-kendisiyle-dalga-gecti.jpg",
+      "publishedAt": "2023-06-17T17:00:00Z",
+      "content": "a').click(); event.preventDefault();\"&gt;Tam Boyutta Gör229 milyar dolar deerinde olduunuzda, belki de bir devralma için 44 milyar dolar harcamakla ilgili aka yapmak o kadar da zor deildir. Bu senary… [+1954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Shane Te Pou",
+      "title": "Shane Te Pou: Enough whining Christopher Luxon, let’s have a positive plan",
+      "description": "Opinion: What country is Luxon moaning about because it isn’t the Aotearoa I see?",
+      "url": "https://www.nzherald.co.nz/nz/shane-te-pou-enough-whining-christopher-luxon-lets-have-a-positive-plan/KNZAQXGQVNBNJJJW7XOQNS4QGI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/Vk8HtARxyIa0S8EMbcX50-_qup0=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/OBPPNTAJANGC3BEYZ5EPRNHGH4.JPG",
+      "publishedAt": "2023-06-17T17:00:00Z",
+      "content": "I see a country with 1800 more cops and 4000 more nurses, where an experienced teacher can now earn more than $100,000 a year and where we have lifted 77,000 children out of poverty in five years, sa… [+4508 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Real Deal"
+      },
+      "author": "Priyanka Modi",
+      "title": "Elon Musk does a U-turn on Sacramento data centers",
+      "description": "Twitter may have to slap another fact-check on Elon Musk — or at least contextualize how one should watch what he does, not listen to what he says. After blasting Sacramento as “possibly the worst place to have a data center,” Musk must have decided the hot t…",
+      "url": "https://therealdeal.com/sanfrancisco/?p=804794",
+      "urlToImage": "https://therealdeal.com/wp-content/uploads/2023/06/Elon-Musk-Does-a-U-Turn-on-Sacramento-Data-Centers_FT-Thumbnail.jpg",
+      "publishedAt": "2023-06-17T17:00:00Z",
+      "content": "Twitter may have to slap another fact-check on Elon Musk or at least contextualize how one should watch what he does, not listen to what he says.\r\nAfter blasting Sacramento as possibly the worst plac… [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": "handelsblatt",
+        "name": "Handelsblatt"
+      },
+      "author": "Joachim Hofer",
+      "title": "Start-up-Check: Chips zum Selbermachen mit den Bauplänen von Codasip",
+      "description": "Codasip macht es möglich, mit kleinen Teams eigene Halbleiter selbst zu entwickeln. Die Software dafür schreiben die Münchener in Europa – aber die Kunden kommen von anderswo.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/start-up-check-chips-zum-selbermachen-mit-den-bauplaenen-von-codasip/29202762.html",
+      "urlToImage": "https://www.handelsblatt.com/images/chips-selbst-entwickeln-mit-codasip/29208940/2-format2003.png",
+      "publishedAt": "2023-06-17T16:57:09Z",
+      "content": "Chips selbst entwickeln mit CodasipMit bescheideneren Mitteln versucht das Münchner Start-up Codasip, Europa bei der Halbleiterentwicklung unabhängiger vom Rest der Welt zu machen.\r\nMünchenIntel, Inf… [+4996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "Star Tribune Staff",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq 5 SUVs",
+      "description": "Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Highway Traffic Safety Administration said Saturday.",
+      "url": "https://www.startribune.com/highway-safety-agency-reports-power-problems-in-2022-hyundai-ioniq-5-suvs/600283435/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1686949660",
+      "publishedAt": "2023-06-17T16:55:03Z",
+      "content": "DETROIT Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Highwa… [+1441 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Via AP news wire",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq 5 SUVs",
+      "description": "U.S. regulators say multiple U.S. owners of Hyundai’s popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise",
+      "url": "https://www.independent.co.uk/news/hyundai-ap-jaguar-tesla-national-transportation-safety-board-b2359536.html",
+      "urlToImage": "https://static.independent.co.uk/2023/06/17/17/Hyundai_Ioniq_5_92722.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-06-17T16:50:52Z",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nMultiple U.S. owners of Hyundai's popular Ioniq 5 el… [+1580 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Florida has banned direct-to-consumer auto sales, but Tesla and co get a pass",
+      "description": "Florida Governor Ron DeSantis has signed a law, written by dealer lobbyists, banning direct-to-consumer auto sales in the state, effective July 1st, 2023 (via Jalopnik). The law lets electric-only manufacturers like Tesla sell directly, but older companies’ e…",
+      "url": "https://www.theverge.com/2023/6/17/23764510/florida-has-banned-direct-to-consumer-auto-sales-but-electric-only-automakers-get-a-pass",
+      "urlToImage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+      "publishedAt": "2023-06-17T16:50:22Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq5 SUVs",
+      "description": "U.S. regulators say multiple U.S. owners of Hyundai’s popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise",
+      "url": "https://abcnews.go.com/US/wireStory/highway-safety-agency-reports-power-problems-2022-hyundai-100166003",
+      "urlToImage": "https://s.abcnews.com/images/US/wirestory_39c442e6172557d4005a7050998f8c02_16x9_992.jpg",
+      "publishedAt": "2023-06-17T16:46:42Z",
+      "content": "DETROIT -- Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Hig… [+1444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "apnews.com",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq5 SUVs",
+      "description": "Multiple U.S. owners of Hyundai's popular Ioniq5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Highway Traffic Safety Administration said Saturday. The agency said in a n…",
+      "url": "https://biztoc.com/x/ef0914a54b9f7400",
+      "urlToImage": "https://c.biztoc.com/210/og.png",
+      "publishedAt": "2023-06-17T16:40:04Z",
+      "content": "Multiple U.S. owners of Hyundai's popular Ioniq5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National Highway Traffic… [+302 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq5 SUVs",
+      "description": "U.S. regulators say multiple U.S. owners of Hyundai’s popular Ioniq5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise",
+      "url": "https://abcnews.go.com/Business/wireStory/highway-safety-agency-reports-power-problems-2022-hyundai-100166004",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-06-17T16:38:05Z",
+      "content": "DETROIT -- Multiple U.S. owners of Hyundai's popular Ioniq5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National High… [+1443 chars]"
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Мария Грушко",
+      "title": "Маск объяснил решение отдать слишком большие деньги за покупку Twitter",
+      "description": "Генеральный директор Tesla и основатель Space X Илон Маск объяснил, что купил социальную сеть Twitter по такой высокой цене, потому что хотел изменить вектор развития компании. По его словам, его беспокоило, что соцсеть движется в «негативном направлении» и о…",
+      "url": "https://lenta.ru/news/2023/06/17/musktwitter/",
+      "urlToImage": "https://icdn.lenta.ru/images/2023/06/17/18/20230617185026287/share_464954de9bf88b77b4a5267e8cc3623e.jpg",
+      "publishedAt": "2023-06-17T16:37:34Z",
+      "content": "Tesla Space X , Twitter , , - . Business Insider.\r\n , « » , « ». « , , , », .\r\n , « ». 90 , , . Twitter, 95 .\r\n Twitter 27 2022 . , . 44 . , , 17 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Giga"
+      },
+      "author": "Felix Gräber",
+      "title": "Neue E-Autos: Toyota legt endlich los",
+      "description": "Das Zögern bei Toyota scheint gebrochen: Der weltgrößte Autobauer schlägt bei E-Autos jetzt neue Töne an. Nicht nur die Modellauswahl soll steigen, auch technisch will Toyota eine Schippe drauflegen. Schon bald planen die Japaner, E-Autos riesiger Reichweite …",
+      "url": "https://www.giga.de/news/neue-e-autos-toyota-legt-endlich-los/",
+      "urlToImage": "https://crops.giga.de/e2/7c/be/0ce9dab8fd81508efb4b3dd68e_YyA1NDAxeDI4MjIrMzArMjI2AnJlIDEyMDAgNjI3A2VjMDliZDVlNGQ4.jpg",
+      "publishedAt": "2023-06-17T16:35:42Z",
+      "content": "Das Zögern bei Toyota scheint gebrochen: Der weltgrößte Autobauer schlägt bei E-Autos jetzt neue Töne an. Nicht nur die Modellauswahl soll steigen, auch technisch will Toyota eine Schippe drauflegen.… [+2611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "euronews.com",
+      "title": "What Elon Musk did and didn't discuss during his VivaTech appearance",
+      "description": "The Tesla and SpaceX boss joined VivaTech attendees in a keynote appearance on Friday, with topics including AI and Twitter. This is what he said. Billionaire tech mogul Elon Musk received a rockstar welcome to the stage on day three of VivaTech on Friday, wi…",
+      "url": "https://biztoc.com/x/fa22d7b56dc936a2",
+      "urlToImage": "https://c.biztoc.com/p/fa22d7b56dc936a2/s.webp",
+      "publishedAt": "2023-06-17T16:28:04Z",
+      "content": "The Tesla and SpaceX boss joined VivaTech attendees in a keynote appearance on Friday, with topics including AI and Twitter. This is what he said.Billionaire tech mogul Elon Musk received a rockstar … [+294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AP Finance",
+      "title": "Highway safety agency reports power problems in 2022 Hyundai Ioniq 5 SUVs",
+      "description": "Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud ...",
+      "url": "https://finance.yahoo.com/news/highway-safety-agency-reports-power-162735591.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pNuu7BjdILFWBGQyHode7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/766fab67a14f1106d9b9256aad7e28e2",
+      "publishedAt": "2023-06-17T16:27:35Z",
+      "content": "DETROIT (AP) Multiple U.S. owners of Hyundai's popular Ioniq 5 electric SUV have complained of completely or partially losing propulsive power, many after hearing a loud popping noise, the National H… [+1445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "James Morris, Contributor, \n James Morris, Contributor\n https://www.forbes.com/sites/jamesmorris/",
+      "title": "Can AEHRA’s Sedan Challenge Tesla, Lucid, And Traditional Luxury Car Brands?",
+      "description": "The AEHRA Sedan unveiled this week brings gob smacking radical looks to the luxury market, but will that be enough to challenge the electric competition?",
+      "url": "https://www.forbes.com/sites/jamesmorris/2023/06/17/can-aehras-sedan-challenge-tesla-lucid-and-traditional-luxury-car-brands/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/648dd5b1922f95ddccb1e992/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-06-17T16:06:38Z",
+      "content": "Milan-based startup AEHRA has unveiled the second product in its range, a sedan. This comes after the AEHRA SUV design was revealed towards the end of 2022. The new car was presented at the Milano Mo… [+7620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "José Pontes",
+      "title": "46% Of New Cars Sold In Netherlands Now Plugin Cars!",
+      "description": "May saw an increase in plugin registrations to 15,115 units in the Netherlands, with the Dutch plugin vehicle (PEV) market reaching 46% last month. That’s mostly thanks to pure electrics (33% of new vehicle sales), which jumped 119% year over year (YoY). The …",
+      "url": "https://cleantechnica.com/2023/06/17/46-of-new-cars-sold-in-netherlands-now-plugin-cars/",
+      "urlToImage": "http://cleantechnica.com/files/2023/06/Netherlands-EV-Sales-Report-May-2023.png",
+      "publishedAt": "2023-06-17T16:05:54Z",
+      "content": "May saw an increase in plugin registrations to 15,115 units in the Netherlands, with the Dutch plugin vehicle (PEV) market reaching 46% last month. Thats mostly thanks to pure electrics (33% of new v… [+7178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Adevarul.ro"
+      },
+      "author": "Cornel Stan\n          Profesor ştiinţe tehnice, scriitor",
+      "title": "Viitorul global al auto-mobilității? Automobile electrice, local curate, dar consumând curent pe bază de cărbune și petrol",
+      "description": "Automobilele electrice, vor constitui, începând din anul 2035, singura soluție tehnică inmatriculabilă în Uniunea Europeană.",
+      "url": "https://adevarul.ro/blogurile-adevarul/viitorul-global-al-auto-mobilitatii-automobile-2276506.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-3/32f237cd-a55c-4f26-9a13-9180b6a260c9/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover%26c%3D0%252C0%252C1%252C1.001",
+      "publishedAt": "2023-06-17T15:49:32Z",
+      "content": "Automobilele electrice, vor constitui, începând din anul\r\n2035, singura soluie tehnic inmatriculabil în Uniunea European.\r\nEste adevrat, aceast decizie se refer numai la\r\nautomobilele noi. Dar este l… [+12628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "What Elon Musk, Bernard Arnault Discussed Over Lunch In Paris",
+      "description": "Two of the world's richest individuals, Louis Vuitton‘s LVMUY Bernard Arnault and Tesla Inc TSLA CEO Elon Musk, had lunch together in Paris. What Happened: Ahead of Musk's highly anticipated appearance at the VivaTech conference, the duo set aside their regul…",
+      "url": "https://biztoc.com/x/80a39129fb49e42c",
+      "urlToImage": "https://c.biztoc.com/p/80a39129fb49e42c/s.webp",
+      "publishedAt": "2023-06-17T15:48:07Z",
+      "content": "Two of the world's richest individuals, Louis Vuittons LVMUY Bernard Arnault and Tesla Inc TSLA CEO Elon Musk, had lunch together in Paris.What Happened: Ahead of Musk's highly anticipated appearance… [+310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nacion.com"
+      },
+      "author": "AFP",
+      "title": "Grandes empresarios de Estados Unidos viajan a China pese a tensiones comerciales",
+      "description": "Elon Musk de Tesla, Bill Gates de Microsoft e incluso Tim Cook de Apple son algunas de las caras conocidas de grandes negocios estadounidenses que han pasado recientemente por el país asiático",
+      "url": "https://www.nacion.com/economia/negocios/grandes-empresarios-de-estados-unidos-viajan-a/Y7FTPQOMURFK7LBWU3SE2FSXNM/story/",
+      "urlToImage": "https://www.nacion.com/resizer/AOAjexntypd7CNwbWQi7uB_Liw4=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/SUUBEGHYYRBEPESKP4N42QOF4Y.jpg",
+      "publishedAt": "2023-06-17T15:29:44Z",
+      "content": "Pekín. De Elon Musk a Bill Gates, pasando por Tim Cook de Apple, algunos de los más destacados empresarios de Estados Unidos han desfilado recientemente por China, poniendo en cuestión la narrativa c… [+5691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Corriere.it"
+      },
+      "author": "Federico Rampini",
+      "title": "Xi Jinping: i capitalisti Usa stanno con me. Ma basterà?",
+      "description": "Bill Gates ricevuto in pompa magna dal presidente cinese a Pechino. Tim Cook ed Elon Musk non hanno ricevuto lo stesso trattamento: ecco perché",
+      "url": "https://www.corriere.it/oriente-occidente-federico-rampini/23_giugno_17/xi-jinping-capitalisti-usa-stanno-me-ma-bastera-c6b682f2-0d1f-11ee-a463-2efa0d37ea3a.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2023/06/17/Esteri/Foto-Esteri-Trattate/6cf772beeac9451cd4494646a3a6ed93-0016-k7wD-U34201523631003NdD-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2023-06-17T15:18:43Z",
+      "content": "Xi Jinping ha ricevuto Bill Gates in pompa magna a Pechino. Il leader comunista cinese ha definito il filantropo e fondatore di Microsoft «il primo amico americano che incontro quest’anno». Nel fratt… [+2004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Activist Post",
+      "title": "Mercedes-Benz Rolls Out ChatGPT For 900,000 US Vehicles To Answer “Complex Questions” While Driving",
+      "description": "By Tyler Durden Mercedes-Benz rolled out a new beta program for over 900,000 US vehicles equipped with the MBUX infotainment system. Drivers can activate the...\nMercedes-Benz Rolls Out ChatGPT For 900,000 US Vehicles To Answer “Complex Questions” While Driving",
+      "url": "https://www.activistpost.com/2023/06/mercedes-benz-rolls-out-chatgpt-for-900000-us-vehicles-to-answer-complex-questions-while-driving.html",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2023/06/merc-chatgpt.jpg",
+      "publishedAt": "2023-06-17T15:14:58Z",
+      "content": "By Tyler Durden\r\nMercedes-Benz rolled out a new beta program for over 900,000 US vehicles equipped with the MBUX infotainment system. Drivers can activate the new voice assistant that integrates Micr… [+1616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Daniel Zlatev",
+      "title": "Tesla HW4 vs HW3 side indicator design and specs comparison shows it can't be retrofit",
+      "description": "The new side repeaters that come with Tesla Hardware 4.0 are more power-efficient than the current Hardware 3.0 generation. They can't be plugged in place of a HW3 indicator, though, as a direct parts comparison shows new cameras, wiring harness, and differen…",
+      "url": "https://www.notebookcheck.net/Tesla-HW4-vs-HW3-side-indicator-design-and-specs-comparison-shows-it-can-t-be-retrofit.726575.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/tesla_hw3_vs_hw4_side_cameras.jpg",
+      "publishedAt": "2023-06-17T15:14:00Z",
+      "content": "A recent teardown of the Hardware 4.0 self-driving kit of Tesla that its newer vehicle batches come equipped with hinted that HW4 may not be easily retrofitted to its current HW3 crop of electric car… [+1655 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "Gavin Newsom confronts Sean Hannity on blue states subsidizing red states",
+      "description": "California Governor Gavin Newsom recently confronted Fox News host Sean Hannity on the relative economic contributions made to the United States by red states and blue states. Newsom, who entered his current office in 2019 and has become a prominent national …",
+      "url": "https://biztoc.com/x/efa88caa11265413",
+      "urlToImage": "https://c.biztoc.com/p/efa88caa11265413/s.webp",
+      "publishedAt": "2023-06-17T15:04:04Z",
+      "content": "California Governor Gavin Newsom recently confronted Fox News host Sean Hannity on the relative economic contributions made to the United States by red states and blue states.Newsom, who entered his … [+292 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Thomas Kika",
+      "title": "Gavin Newsom Confronts Sean Hannity on Blue States Subsidizing Red States",
+      "description": "\"We're subsidizing your states, Sean, because of your policies,\" the California governor said.",
+      "url": "https://www.newsweek.com/gavin-newsom-confronts-sean-hannity-blue-states-subsidizing-red-states-1807434",
+      "urlToImage": "https://d.newsweek.com/en/full/2247879/gavin-newsom-hannity-blue-states.jpg",
+      "publishedAt": "2023-06-17T15:01:03Z",
+      "content": "California Governor Gavin Newsom recently confronted Fox News host Sean Hannity on the relative economic contributions made to the United States by red states and blue states.\r\nNewsom, who entered hi… [+3036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noticiasautomotivas.com.br"
+      },
+      "author": "Ricardo de Oliveira",
+      "title": "Avaliação Volvo C40: só entrar e andar com conforto e eficiência",
+      "description": "O dia em que basta entrar ou sair do carro para ligá-lo ou desligá-lo chegou, e o Volvo C40 o faz também com estilo e eficiência energética, chegando mesmo a",
+      "url": "https://www.noticiasautomotivas.com.br/avaliacao-volvo-c40-so-entrar-e-andar-com-conforto-e-eficiencia/",
+      "urlToImage": "https://images.noticiasautomotivas.com.br/img/f/volvo-c40-avaliacao-na-47.jpg",
+      "publishedAt": "2023-06-17T15:00:51Z",
+      "content": "O dia em que basta entrar ou sair do carro para ligá-lo ou desligá-lo chegou, e o Volvo C40 o faz também com estilo e eficiência energética, chegando mesmo a apresentar um ar nostálgico.\r\nDisponível … [+9729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Bloomberg",
+      "title": "Musk Courts EU Leaders as TWITTER Future Hangs in Balance...",
+      "description": "Musk Courts EU Leaders as TWITTER Future Hangs in Balance...\r\n\n \n \n \n (Third column, 3rd story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+      "url": "https://tech.hindustantimes.com/tech/news/elon-musk-courts-eu-leaders-as-twitter-s-future-hangs-in-the-balance-71686998592144.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/06/17/1600x900/FRANCE-MUSK-19_1686965179154_1686999495142.jpg",
+      "publishedAt": "2023-06-17T14:58:37Z",
+      "content": "On Thursday, Elon Musk strode into the Palazzo Chigi in central Rome for a visit with Italian Prime Minister Giorgia Meloni. Wine, hugs and small talk were exchanged over the course of several long m… [+7008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Businessinsider.com.pl"
+      },
+      "author": "Grzegorz Kowalczyk",
+      "title": "Tak kończy się era magnatów medialnych. Berlusconiego i Murdocha zastąpił Musk i Zuckerberg",
+      "description": "Silvio Berlusconi był jednym z dwóch najpotężniejszych magnatów medialnych starego świata. Dziś pamięta się ich skandale, a fortuna i wpływy nie rzucają już na kolana. Śmierć byłego premiera Włoch to symboliczny koniec epoki, w której stworzenie ogromnej tele…",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/koniec-ery-krolow-mediow-berlusconiego-i-spolke-zastapil-musk-i-zuckerberg/5q0j5yw",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/HY_k9kpTURBXy9jOWNmMzYzOGI4YjhlM2ZjNWFiMjRhZTBiM2M3ZTQzNy5wbmeSlQM1AM0HFc0D_JMFzQSwzQJ23gABoTAB",
+      "publishedAt": "2023-06-17T14:54:53Z",
+      "content": "Sam siebie nazywa \"Jezusem polityki\", a pocztek jego rzdów to symboliczny pocztek powojennej II Republiki Woskiej. Lubi kobiety, pienidze i by duym ekspertem od piki nonej. Te trzy cechy najbardziej … [+6302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Tesla, Apple, Netflix, AMD, And Nvidia Insiders Are Selling Share As Stock Hits All-Time High: Bulls And Bears",
+      "description": "Benzinga examined the prospects for many investors' favorite stocks over the last week — here's a look at some of our top stories. Friday saw Wall Street wrapping up its most robust week since March with a subdued finale, as stocks slightly retreated. The Dow…",
+      "url": "https://biztoc.com/x/7bf37872d8e645fd",
+      "urlToImage": "https://c.biztoc.com/p/7bf37872d8e645fd/s.webp",
+      "publishedAt": "2023-06-17T14:50:12Z",
+      "content": "Benzinga examined the prospects for many investors' favorite stocks over the last week here's a look at some of our top stories.Friday saw Wall Street wrapping up its most robust week since March wit… [+304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Tesla Energy Passes 500,000 Powerwall Installations Worldwide",
+      "description": "While Tesla Inc TSLA is best known for its electric vehicles, the company also has an energy division led by its Powerwall. First launched in 2015, Powerwall recently passed an impressive milestone. What Happened: Energy storage for Tesla has seen impressive …",
+      "url": "https://biztoc.com/x/e3b050e9cb9d86a8",
+      "urlToImage": "https://c.biztoc.com/p/e3b050e9cb9d86a8/s.webp",
+      "publishedAt": "2023-06-17T14:50:11Z",
+      "content": "While Tesla Inc TSLA is best known for its electric vehicles, the company also has an energy division led by its Powerwall. First launched in 2015, Powerwall recently passed an impressive milestone.W… [+293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Benjamin Lynch)",
+      "title": "Teen genius, 14, claims school wasn't smart enough for him but is now Elon Musk's SpaceX worker",
+      "description": "A teen genius, 14, branded 'youngest employed software engineer on the planet' has landed a job with SpaceX, the rocket company owned by Twitter and Tesla billionaire Elon Musk",
+      "url": "https://www.mirror.co.uk/news/us-news/teen-genius-14-claims-school-30258003",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article30258016.ece/ALTERNATES/s1200/0_Kairan-Quazi.jpg",
+      "publishedAt": "2023-06-17T14:49:28Z",
+      "content": "The \"youngest employed software engineer on the planet\" has landed a job with billionaire tech mogul Elon Musk at the age of just 14.\r\nChild genius Kairan Quazi got a job with Musk's space exploratio… [+3265 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Observador.pt"
+      },
+      "author": "Inês Capucho",
+      "title": "Sentiu-se “indesejado” pelo pai e agora é o seu sucessor. Quem é Alexander, o homem que passou a controlar o império Soros?",
+      "description": "O filantropo George Soros passou o controlo do seu império financeiro para o segundo filho mais novo. Aos 37 anos, Alexander diz ser mais \"político\" do que o pai. Os dois nem sempre foram próximos.",
+      "url": "https://observador.pt/especiais/sentiu-se-indesejado-pelo-pai-e-agora-e-o-seu-sucessor-quem-e-alexander-o-homem-que-passou-a-controlar-o-imperio-soros/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2306%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F06%2F12120426%2Fgettyimages-1240878604-1-scaled.jpg",
+      "publishedAt": "2023-06-17T14:47:25Z",
+      "content": "De criança introvertida a uma vida social agitada, marcada por festas nos Hamptons e em Cannes. Fã de hip-hop e adepto da equipa de futebol americano New York Jets, Alexander não foi, durante vários … [+1443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilgiornale.it"
+      },
+      "author": "redazione@ilgiornale-web.it (Francesca Galici)",
+      "title": "Orrore social: dopo l'incidente lo youtuber \"guadagna\" 24mila follower",
+      "description": "I TheBorderline hanno perso 5 milioni di view a seguito dell'eliminazione di alcuni video ma incompenso sono cresciuti i follower",
+      "url": "https://www.ilgiornale.it/news/cronaca-nera/cos-youtuber-dellincidente-roma-ha-ottenuto-24mila-follower-2168721.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/06/16/1686908545-ayi7idesk-qe0nhd3kkf-ansa.jpg?_=1686908545",
+      "publishedAt": "2023-06-17T14:38:50Z",
+      "content": "L'incidente di Casal Palocco in cui ha perso la vita il piccolo Manuel ha innescato una spirale di curiosità morbosa attorno al gruppo dei \"TheBorderline\". Il collettivo di youtuber capace di guadagn… [+2449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Hugo Bernard",
+      "title": "Qui est OpenAI, le créateur de ChatGPT et Dall-E ?",
+      "description": "Depuis plusieurs mois, une seule entreprise revient régulièrement dans l'actualité : OpenAI. Et pour cause, puisqu'il s'agit de l'entreprise qui développe ChatGPT et Dall-E, deux outils d'intelligence artificielle ayant rencontré un succès monstre.",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/1716723_qui-est-openai-le-createur-de-chatgpt-et-dall-e",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/06/design-sans-titre-1.jpg",
+      "publishedAt": "2023-06-17T14:24:43Z",
+      "content": "Depuis plusieurs mois, une seule entreprise revient régulièrement dans l'actualité : OpenAI. Et pour cause, puisqu'il s'agit de l'entreprise qui développe ChatGPT et Dall-E, deux outils d'intelligenc… [+9244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chip.com.tr"
+      },
+      "author": "CHIP Online",
+      "title": "Toyota'dan, elektrikli araçları için \"tek şarjla 1.000 kilometre menzil\" iddiası",
+      "description": "Toyota, yakın gelecekte tek bir şarjla 1.000 kilometrenin üzerinde bir menzilie sahip olacak yeni elektrikli otomobiller üreteceğini iddia ediyor.",
+      "url": "https://www.chip.com.tr/haber/toyota-yakin-gelecekte-1000-kilometrenin-uzerinde-ev-menziline-ulasacagini-iddia-ediyor_157940.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2023/06/14/toyota-yakin-gelecekte-1000-kilometrenin-uzerinde-ev-menziline-ulasacagini-iddia-ediyor-yBDl.jpg",
+      "publishedAt": "2023-06-17T14:24:19Z",
+      "content": "EV’lerin tek bir şarjla gidebileceği mesafe, Mercedes, BMW ve Tesla gibi en iyi seçeneklerin tamamının yaklaşık 500 kilometrenin üzerinde bir menzile sahip olmasıyla yıllar içinde istikrarlı bir şeki… [+2246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "abnormalreturns.com",
+      "title": "Saturday links: over-optimized operations",
+      "description": "Tesla Tesla's ($TSLA) great advantage comes from its charging network. (bloomberg.com) Tesla's ($TSLA) Autopilot has been involved in more crashes than previously reported. (washingtonpost.com) Autos The window is rapidly closing for EV startups to get a toeh…",
+      "url": "https://biztoc.com/x/2e2e5fd50efbc7a0",
+      "urlToImage": "https://c.biztoc.com/210/og.png",
+      "publishedAt": "2023-06-17T14:18:24Z",
+      "content": "TeslaTesla's ($TSLA) great advantage comes from its charging network. (bloomberg.com)Tesla's ($TSLA) Autopilot has been involved in more crashes than previously reported. (washingtonpost.com)AutosThe… [+291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Neil Rozenbaum)",
+      "title": "Everyone Wants a Piece of Tesla These Days",
+      "description": "Here's everything you need to know about the electric vehicle (EV) maker's week.",
+      "url": "https://www.fool.com/investing/2023/06/17/everyone-wants-a-piece-of-tesla-these-days/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736708/tsla.png",
+      "publishedAt": "2023-06-17T14:15:00Z",
+      "content": "In this week's video, I cover everything you need to know about news related to Tesla(TSLA 1.81%) during the week of June 12. Today's video will focus on Elon Musk's visit to France and Italy, where … [+264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Patronlardunyasi.com"
+      },
+      "author": "Patronlar Dünyası",
+      "title": "Dünyanın en zengin iki ismi Elon Musk ve Bernard Arnault, Paris'te yemek yedi",
+      "description": "Dünyanın en zengin iki ismi Elon Musk ve Bernard Arnault, Paris'teki bir konferans öncesinde lüks bir otelde bir araya gelerek yemek yedi.",
+      "url": "https://www.patronlardunyasi.com/haber/Dunyanin-en-zengin-iki-ismi-Elon-Musk-ve-Bernard-Arnault-Paris-te-yemek-yedi/282026",
+      "urlToImage": "http://www.patronlardunyasi.com/haber_resim/Dunyanin-en-zengin-iki-ismi-Elon-Musk-ve-Bernard-Arnault-Paris-te-yemek-yedi-282026.jpg",
+      "publishedAt": "2023-06-17T14:07:38Z",
+      "content": "Dünyann en zengin iki ismi Elon Musk ve Bernard Arnault, Paris'teki bir konferans öncesinde lüks bir otelde bir araya gelerek yemek yedi.Bloomberg'e göre ikili, Arnault tarafndan 1987 ylnda kurulan L… [+1429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ghazal Ahmed",
+      "title": "15 Richest Hotel Owners in the World",
+      "description": "In this article, we will take a look at the 15 richest hotel owners in the world. If you wish to skip our detailed analysis on the richest hoteliers in the...",
+      "url": "https://finance.yahoo.com/news/15-richest-hotel-owners-world-140656313.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/e55731700d78f1ca3b15d06163786673",
+      "publishedAt": "2023-06-17T14:06:56Z",
+      "content": "In this article, we will take a look at the 15 richest hotel owners in the world. If you wish to skip our detailed analysis on the richest hoteliers in the world, the hotel industry and billionaire w… [+10815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGN TV Chicago"
+      },
+      "author": "Stephen Edelstein - Green Car Reports",
+      "title": "Hyundai Ioniq 6 undercuts Tesla Model 3 with $5,000 price cut",
+      "description": "Hyundai recently increased rebates on the Ioniq 6 from $3,750 to a maximum $5,000 for the SE and SEL trim levels, CarsDirect found.",
+      "url": "https://wgntv.com/news/hyundai-ioniq-6-undercuts-tesla-model-3-with-5000-price-cut/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/06/admin-ajax-38.jpg?w=1280",
+      "publishedAt": "2023-06-17T14:00:58Z",
+      "content": "(Green Car Reports) — Thanks to increased rebates, the 2023 Hyundai Ioniq 6 is now cheaper to buy than a Tesla Model 3.\r\nHyundai recently increased rebates on the Ioniq 6 from $3,750 to a maximum $5,… [+1727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Felix Frank",
+      "title": "Tesla Supercharger: Anpassung der Spitzenzeiten fürs Aufladen",
+      "description": "Im Rahmen einer Push-Benachrichtigung hat Tesla seine App-Nutzer über neue Spitzenzeiten an den eigenen Superchargern informiert. Man begründet dies mit wechselnden Strompreisen im Sommer. Die Spitzenzeiten verlagern sich damit auf spätere Uhrzeiten. Ab sofor…",
+      "url": "https://stadt-bremerhaven.de/tesla-supercharger-anpassung-der-spitzenzeiten-fuers-aufladen/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/11/2022-11-23-18.50.54.jpg",
+      "publishedAt": "2023-06-17T14:00:42Z",
+      "content": "Im Rahmen einer Push-Benachrichtigung hat Tesla seine App-Nutzer über neue Spitzenzeiten an den eigenen Superchargern informiert. Man begründet dies mit wechselnden Strompreisen im Sommer. Die Spitze… [+1562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Autoblog"
+      },
+      "author": "Insider",
+      "title": "Ron DeSantis signed a bill banning direct-to-consumer car sales in Florida — except for Tesla",
+      "description": "Continue reading Ron DeSantis signed a bill banning direct-to-consumer car sales in Florida — except for Tesla\nRon DeSantis signed a bill banning direct-to-consumer car sales in Florida — except for Tesla originally appeared on Autoblog on Sat, 17 Jun 2023 10…",
+      "url": "https://www.autoblog.com/2023/06/17/ron-desantis-signed-a-bill-banning-direct-to-consumer-car-sales-in-florida-except-for-tesla/",
+      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/a453ce9e218a62ce0cda7dcd72fbe925",
+      "publishedAt": "2023-06-17T14:00:00Z",
+      "content": "Getty Images\r\nFlorida Gov. Ron DeSantis signed a bill this week that keeps automakers using dealerships with one notable exception for Elon Musk's Tesla.\r\nThe measure bans car manufacturers from sell… [+1179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Tesla's Cybertruck Update, Rivian To Lose Spot On Nasdaq 100, Nio Backtracks On Pricing Strategy And More: Biggest EV Stories Of The Week",
+      "description": "Electric vehicle stocks closed the week that ended on June 16 on an upbeat note, benefiting from the positive broader market sentiment as the Federal Reserve hit the pause button. Market leader Tesla, Inc. TSLA raced to an eight-and-a-half month high despite …",
+      "url": "https://biztoc.com/x/78acb57aa234857f",
+      "urlToImage": "https://c.biztoc.com/p/78acb57aa234857f/s.webp",
+      "publishedAt": "2023-06-17T13:54:06Z",
+      "content": "Electric vehicle stocks closed the week that ended on June 16 on an upbeat note, benefiting from the positive broader market sentiment as the Federal Reserve hit the pause button. Market leader Tesla… [+309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "N-tv.de"
+      },
+      "author": "n-tv NACHRICHTEN",
+      "title": "Anhänger, Ladepunkte, Notmodus: So wird der Urlaub mit Elektroauto entspannt",
+      "description": "Verreisen mit dem E-Auto - wie ist das, wenn die Fahrt zum Urlaubsort mal  etwa länger ist oder sogar ins Ausland führt? Wo gibt es Ladepunkte, was macht man bei einer Panne und kann man mit einem E-Auto eigentlich einen Anhänger ziehen? Die wichtigsten Tipps…",
+      "url": "https://www.n-tv.de/auto/So-wird-der-Urlaub-mit-Elektroauto-entspannt-article24184877.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop24185014/6611321813-cImg_16_9-w1200/287093555.jpg",
+      "publishedAt": "2023-06-17T13:52:54Z",
+      "content": "Verreisen mit dem E-Auto - wie ist das, wenn die Fahrt zum Urlaubsort mal etwa länger ist oder sogar ins Ausland führt? Wo gibt es Ladepunkte, was macht man bei einer Panne und kann man mit einem E-A… [+5460 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katie Lobosco",
+      "title": "Can EV chargers revitalize a working-class city? Reading, Pennsylvania, seeks federal infrastructure money to find out",
+      "description": "Reading, Pennsylvania, may be most recognized for the Monopoly board game's Reading Railroad property. The railroad was one of the first in the US, but it went bankrupt in 1971. Now Reading is looking to regain its footing with a big investment in electric ve…",
+      "url": "https://www.cnn.com/2023/06/17/politics/ev-chargers-biden-infrastructure-reading-pennsylvania/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230615102851-ev-charging-station-pennsylvania-file-restricted-072121.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-17T13:35:36Z",
+      "content": "Reading, PennsylvaniaCNN\r\n  — \r\nReading, the fourth-largest city in Pennsylvania, may be mostrecognized for the iconic Monopoly board games Reading Railroad property. \r\nThe railroad was one of the fi… [+8153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Daniel Miller)",
+      "title": "4 Reasons to Buy This Tesla Rival Hand Over Fist",
+      "description": "Looking for an EV stock with long-term upside? Look no further than this Tesla rival.",
+      "url": "https://www.fool.com/investing/2023/06/17/4-reasons-to-buy-this-tesla-rival-hand-over-fist/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/736306/2022-rivian-r1t-14.jpg",
+      "publishedAt": "2023-06-17T13:24:00Z",
+      "content": "Everyone would love to brag to coworkers, friends, and family about finding and investing in the next Tesla. If it were as easily done as said, we'd all be retired and wealthy already.\r\nWhile it will… [+5097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Businessinsider.com.pl"
+      },
+      "author": "DS",
+      "title": "Tesla przegrała proces z klientem. Musi zwrócić wielkie pieniądze",
+      "description": "Gigant branży motoryzacyjnej musi uznać roszczenia klienta z Belgii. Tesla, należąca do Elona Muska, przegrała proces w sprawie wadliwego samochodu. Na mocy orzeczenia sądu w Antwerpii amerykański producent musi zwrócić równowartość ponad 700 tys. zł.",
+      "url": "https://businessinsider.com.pl/motoryzacja/tesla-przegrala-proces-z-klientem-musi-zwrocic-rownowartosc-setek-tysiecy-zlotych/gvzfzcz",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/zIfk9kpTURBXy9mOTVhZGFlZWE4MWJlOWM0MTQ2NDc2NzQzN2QxZTA2NC5qcGeSlQMAH80D6M0CMpMFzQSwzQJ23gABoTAB",
+      "publishedAt": "2023-06-17T13:14:35Z",
+      "content": "Producent samochodów elektrycznych Tesla musi zwróci belgijskiemu klientowi koszt zakupionego przez niego samochodu (model S P100D) o wartoci 158,6 tys. euro (ponad 707 tys. z). Jak podaje dziennik \"… [+1396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "decrypt.co",
+      "title": "Elon Musk Denies Owning Dogecoin Stash Linked to Insider Trading",
+      "description": "Billionaire mogul Elon Musk has denied allegations of owning Dogecoin (DOGE) wallets amid his ongoing class action lawsuit for market manipulation and securities fraud relating to the meme coin. Tesla’s founder and CEO and, for a short while, the CEO of Twitt…",
+      "url": "https://biztoc.com/x/cdcc6e6689abdc48",
+      "urlToImage": "https://c.biztoc.com/p/cdcc6e6689abdc48/s.webp",
+      "publishedAt": "2023-06-17T13:12:05Z",
+      "content": "Billionaire mogul Elon Musk has denied allegations of owning Dogecoin (DOGE) wallets amid his ongoing class action lawsuit for market manipulation and securities fraud relating to the meme coin.Tesla… [+282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "N-tv.de"
+      },
+      "author": "n-tv NACHRICHTEN",
+      "title": "Unu-Gründer im Interview: \"Wir wollten den Tesla auf zwei Rädern bauen\"",
+      "description": "Seitdem Pascal Blum im Jahr 2013 seine Elektro-Roller-Marke Unu gegründet hat, ist es dem Startup gelungen, rund 15.000 emissionsfreie Scooter abzusetzen. Der Erfolg machte die Berliner euphorisch. Doch es gab Rückschläge.",
+      "url": "https://www.n-tv.de/wirtschaft/wirtschaft_startup/Wir-wollten-den-Tesla-auf-zwei-Raedern-bauen-article24196781.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop24196859/9651327079-cImg_16_9-w1200/92065212.jpg",
+      "publishedAt": "2023-06-17T13:10:08Z",
+      "content": "2013 wurde in Berlin die Elektro-Roller-Marke Unu gegründet. Rund 15.000 emissionsfreie Scooter der 50er-Klasse konnte das Startup seither hierzulande absetzen. Laut Firmengründer Pascal Blum ist dam… [+5958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Adrian Marlow",
+      "title": "Grab Anker's Mach V1 All-In-One Cordless Stick Vacuum for $500 (Save $80) - CNET",
+      "description": "Keep your floors impeccably clean for less with this discounted cordless stick vacuum and mop combo.",
+      "url": "https://www.cnet.com/deals/grab-ankers-mach-v1-all-in-one-cordless-stick-vacuum-for-500-save-80/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f919758e68fd03902465800e194eff024c4646b5/hub/2023/04/13/f287a709-29d0-4dbd-8df7-3f1fa1eddc48/02-bg-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-06-17T13:10:07Z",
+      "content": "Cleaning your floors is one of those evergreen tasks that you have to maintain constantly. But with the technological advances we've seen in recent years, better options have hit the market that can … [+1818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Bob Woods",
+      "title": "'Real' meat maker Cargill may emerge big winner in plant-based food as buzzy startup boom fades",
+      "description": "Cargill, the largest private company in the US, expects to beat Beyond Meat, Impossible Foods in a plant-based food race created for a world craving protein.",
+      "url": "https://www.cnbc.com/2023/06/17/why-cargill-a-real-meat-maker-may-be-big-winner-in-plant-based-food.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107258383-1686933043603-burgercargill.jpg?v=1687007162&w=1920&h=1080",
+      "publishedAt": "2023-06-17T13:06:00Z",
+      "content": "The plant-based protein boom has stalled, with buzzy startups humbled and food giants retreating, but Cargill forecasts 70% more protein consumption over the next 25 to 30 years. \"That protein has to… [+11292 chars]"
+    },
+    {
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "author": null,
+      "title": "Tesla, non solo Italia e Francia: in Europa tutti vogliono la fabbrica di Musk",
+      "description": "Dove sorgerà la prossima fabbrica europea di Tesla? In gioco si cono miliardi di investimenti. Mentre lo stabilimento del marchio alle porte di Berlino arranca per troppa burocrazia, i leader dei Paesi Ue sgomitano per indirizzare le future scelte di Elon Musk",
+      "url": "https://www.ilsole24ore.com/art/tesla-non-solo-italia-e-francia-europa-tutti-vogliono-fabbrica-musk-AEhLkejD",
+      "urlToImage": "https://i2.res.24o.it/images2010/2023/06/AEhLkejD/images/0202704e-0cff-11ee-880b-838caf80b2f6-fotohome0.jpg",
+      "publishedAt": "2023-06-17T13:03:01Z",
+      "content": "LItalia ha lottato per ottenere impegni da grandi investitori tecnologici statunitensi e ha tenuto colloqui preliminari con società con sede a Taiwan per aumentare le sue capacità di chip.\r\nLe discus… [+1427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bankier.pl"
+      },
+      "author": "Redaktor Bankier.pl",
+      "title": "Tesla przegrała proces z klientem i musi zwrócić mu pieniądze",
+      "description": "Obywatel Belgii wygrał proces z Teslą w sprawie wadliwego samochodu - informuje w sobotę dziennik \"Het Laatste Nieuws\". Na mocy orzeczenia sądu w Antwerpii amerykański producent musi zwrócić mu ponad 158 tys. euro.",
+      "url": "https://www.bankier.pl/wiadomosc/Tesla-przegrala-proces-z-klientem-i-musi-zwrocic-mu-pieniadze-8562251.html",
+      "urlToImage": "https://galeria.bankier.pl/p/4/8/946cfa00ad76ef-948-568-0-0-1833-1100.jpg",
+      "publishedAt": "2023-06-17T13:02:00Z",
+      "content": "Obywatel Belgii wygra proces z Tesl w sprawie wadliwego samochodu - informuje w sobot dziennik \"Het Laatste Nieuws\". Na mocy orzeczenia sdu w Antwerpii amerykaski producent musi zwróci mu ponad 158 t… [+1194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "linuxdeveloper",
+      "title": "Show HN: Yass.ai (Yet Another Streaming Summarizer)",
+      "description": "Note: The live demo site http://yass.ai can't handle simultaneous users, so if you want to try YASS, you are best off running it locally. If you know how to fix the simultaneous user issue (session handling) then please make a PR and help us improve YASS! Cod…",
+      "url": "https://github.com/natehouk/flow-ai-hackathon-2023",
+      "urlToImage": "https://opengraph.githubassets.com/a7d47d7f9404436494d7c3ef17ce16e42680ed0e837c263a06c2d4b06995d009/natehouk/flow-ai-hackathon-2023",
+      "publishedAt": "2023-06-17T13:01:39Z",
+      "content": "flow-ai-hackathon-2023\r\nIntroducing YASS.ai, the ultimate streaming data summarizer marvel! \r\n Powered by ChatGPT, YASS transforms videos, audios, and news streams into concise insights. \r\nThis cutti… [+5880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Pedro Solimano",
+      "title": "Elon Musk Denies Owning Dogecoin Stash Linked to Insider Trading",
+      "description": "Musk’s lawyer says the claim that the Tesla CEO is secretly a DOGE whale is “without basis.”",
+      "url": "https://decrypt.co/145043/elon-musk-dogecoin-wallets-insider-trading",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/06/doge-dogecoin-shiba-ina-wearing-suit-jacket-gID_7.jpg",
+      "publishedAt": "2023-06-17T13:01:02Z",
+      "content": "Billionaire mogul Elon Musk has denied allegations of owning Dogecoin (DOGE) wallets amid his ongoing class action lawsuit for market manipulation and securities fraud relating to the meme coin.\r\nTes… [+2160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "entrepreneur.com",
+      "title": "Insurance On Electric Cars: What Buyers And Owners Need To Know",
+      "description": "There's perhaps no better time to buy an electric car as the widespread popularity of electric vehicles (EVs) and hybrid-powered cars are becoming more mainstream on the back of increasing... There's perhaps no better time to buy an electric car as the widesp…",
+      "url": "https://biztoc.com/x/29745269da76c49a",
+      "urlToImage": "https://c.biztoc.com/p/29745269da76c49a/s.webp",
+      "publishedAt": "2023-06-17T12:54:04Z",
+      "content": "There's perhaps no better time to buy an electric car as the widespread popularity of electric vehicles (EVs) and hybrid-powered cars are becoming more mainstream on the back of increasing...There's … [+285 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investorplace.com",
+      "title": "Get In Early On These Next 3 Trillion-Dollar Companies",
+      "description": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips We know that the stock market is ever-changing and dynamic. To that end, investors are always trying to divine the next trillion-dollar companies. Visa (NYSE:V), Tesla (NASDAQ:TSLA), and Taiwan Se…",
+      "url": "https://biztoc.com/x/58233364f30debc0",
+      "urlToImage": "https://c.biztoc.com/p/58233364f30debc0/s.webp",
+      "publishedAt": "2023-06-17T12:44:10Z",
+      "content": "InvestorPlace - Stock Market News, Stock Advice &amp; Trading TipsWe know that the stock market is ever-changing and dynamic. To that end, investors are always trying to divine the next trillion-doll… [+243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Belgian Resident Wins Lawsuit Against Tesla Over Frequent Car Breakdowns - Reports",
+      "description": "BRUSSELS (Sputnik) - A Belgian resident has won a 158,600-euro ($174,000) cash settlement from Tesla over quality issues with the Model S P100D he bought four years ago, Belgian media reported on Saturday.",
+      "url": "https://sputnikglobe.com/20230617/belgian-resident-wins-lawsuit-against-tesla-over-frequent-car-breakdowns---reports-1111247725.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1111247725.jpg?10767558231687005815",
+      "publishedAt": "2023-06-17T12:43:34Z",
+      "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20230617/belgian-resident-wins-lawsuit-against-tesla-over-frequent-car-bre… [+1546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "JUNAID IBRAHIM",
+      "title": "Thousands vie for five positions in Tesla M'sia recruitment drive",
+      "description": "PETALING JAYA: Eager jobseekers flocked to a job interview held by renowned US electric vehicle manufacturer, Tesla, in Cyberjaya on Saturday (June 17). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/06/17/thousands-vie-for-five-positions-in-tesla-m039sia-recruitment-drive",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/06/17/2130905.jpg",
+      "publishedAt": "2023-06-17T12:34:00Z",
+      "content": "PETALING JAYA: Eager jobseekers flocked to a job interview held by renowned US electric vehicle manufacturer, Tesla, in Cyberjaya on Saturday (June 17).\r\nAccording to Cyberview strategic communicatio… [+2606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Andreas Donath",
+      "title": "Mögliche Absatzprobleme: Tesla soll in Grünheide Mitarbeiter reduzieren",
+      "description": "Tesla soll in der Gigafactory Berlin die Produktionsziele auf Eis gelegt haben und entlässt angeblich Hunderte Zeitarbeiter. (Gigafactory Berlin, Elektroauto)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fmoegliche-absatzprobleme-tesla-soll-in-gruenheide-mitarbeiter-reduzieren-2306-175045.html&referer=https%3A%2F%2Ft.co%2Fcacbcf21ac",
+      "urlToImage": null,
+      "publishedAt": "2023-06-17T12:30:03Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    }
+  ]
 }
